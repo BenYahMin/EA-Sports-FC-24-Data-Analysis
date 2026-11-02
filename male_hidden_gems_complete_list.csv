@@ -1,0 +1,822 @@
+short_name,long_name,age,overall,potential,value_eur,wage_eur,club_name,league_name,player_positions,pace,shooting,passing,dribbling,defending,physic
+A. Gomes,Adilson Angel Abreu de Almeida Gomes,16,63,89,800000.0,7000.0,Manchester United,Premier League,"CAM, LW, RW, CM",80.0,59.0,58.0,68.0,20.0,42.0
+J. Doku,Jérémy Doku,18,71,88,4800000.0,6000.0,Anderlecht,Jupiler Pro League,"RW, LW",93.0,59.0,58.0,79.0,26.0,62.0
+F. Wirtz,Florian Richard Wirtz,17,68,88,3300000.0,3000.0,Bayer 04 Leverkusen,Bundesliga,"CAM, RM",74.0,64.0,64.0,75.0,44.0,50.0
+P. De la Vega,Pedro De la Vega,18,70,88,3700000.0,5000.0,Lanús,Liga Profesional,RW,86.0,62.0,60.0,76.0,30.0,59.0
+J. Bellingham,Jude Victor William Bellingham,17,69,88,3500000.0,3000.0,Borussia Dortmund,Bundesliga,"CM, LM, RM",77.0,65.0,64.0,73.0,55.0,66.0
+A. Nusa,Antonio Eromonsele Nordby Nusa,17,68,88,3300000.0,2000.0,Club Brugge,Jupiler Pro League,"LW, RW, ST",86.0,60.0,59.0,76.0,40.0,46.0
+Y. Moukoko,Youssoufa Moukoko,17,69,88,3500000.0,4000.0,Borussia Dortmund,Bundesliga,ST,84.0,68.0,54.0,77.0,32.0,60.0
+J. Arp,Jann-Fiete Arp,18,69,88,2200000.0,5000.0,Hamburger SV,2. Bundesliga,ST,69.0,68.0,45.0,70.0,22.0,56.0
+S. Tonali,Sandro Tonali,18,66,88,1300000.0,1000.0,Brescia,Serie B,"CDM, CM",68.0,51.0,68.0,66.0,60.0,64.0
+R. Cherki,Mathis Rayan Cherki,16,67,88,3200000.0,2000.0,Olympique Lyonnais,Ligue 1,"CAM, RM, LM",71.0,60.0,62.0,74.0,20.0,58.0
+Joelson Fernandes,Joelson Augusto Mendes Mango Fernandes,17,69,87,3500000.0,1000.0,Sporting CP,Liga Portugal,"RW, LW",90.0,60.0,58.0,76.0,24.0,46.0
+A. Nusa,Antonio Eromonsele Nordby Nusa,18,68,87,3100000.0,3000.0,Club Brugge,Jupiler Pro League,"LM, LW, RM",86.0,61.0,61.0,79.0,40.0,47.0
+A. Urzi,Agustín José Urzi,19,69,87,2300000.0,4000.0,Banfield,Liga Profesional,"LM, CM",88.0,59.0,59.0,73.0,36.0,52.0
+J. Hato,Jorrel Hato,17,68,87,2800000.0,500.0,Ajax,Eredivisie,"CB, LB",78.0,37.0,64.0,66.0,66.0,64.0
+F. Pellistri,Facundo Pellistri Rebollo,18,71,87,4800000.0,500.0,Peñarol,Primera Division,"RM, RW",84.0,62.0,64.0,73.0,27.0,61.0
+K. Adeyemi,Karim-David Adeyemi,18,69,87,3600000.0,6000.0,Salzburg,Bundesliga,"ST, LW",88.0,68.0,63.0,75.0,23.0,54.0
+G. Reyna,Giovanni Alejandro Reyna,17,68,87,3000000.0,2000.0,Borussia Dortmund,Bundesliga,"LM, CAM",77.0,59.0,64.0,76.0,29.0,52.0
+R. Gravenberch,Ryan Jiro Gravenberch,18,71,87,4700000.0,4000.0,Ajax,Eredivisie,"CM, CDM",73.0,65.0,71.0,76.0,55.0,63.0
+Sergio Gómez,Sergio Gómez Martín,17,68,87,1800000.0,9000.0,Borussia Dortmund,Bundesliga,"CAM, CM",71.0,63.0,68.0,73.0,42.0,41.0
+G. Restes,Guillaume Restes,18,70,87,3600000.0,1000.0,Toulouse,Ligue 1,GK,,,,,,
+A. Scott,Alex Scott,18,69,87,3500000.0,6000.0,Bristol City,Championship,"CAM, CM, RM",73.0,60.0,69.0,74.0,59.0,63.0
+J. Duranville,Julien Duranville,17,66,87,2700000.0,1000.0,Borussia Dortmund,Bundesliga,"LM, ST, RM",84.0,60.0,58.0,75.0,23.0,49.0
+J. Bynoe-Gittens,Jamie Bynoe-Gittens,17,67,87,2800000.0,2000.0,Borussia Dortmund,Bundesliga,"LM, RM",82.0,58.0,56.0,75.0,24.0,51.0
+S. Scuffet,Simone Scuffet,18,71,87,1000000.0,6000.0,Udinese,Serie A,GK,,,,,,
+M. Edwards,Marcus Edwards,18,65,87,1200000.0,10000.0,Tottenham Hotspur,Premier League,"RM, CAM",75.0,57.0,60.0,72.0,30.0,44.0
+B. Kamara,Boubacar Bernard Kamara,18,71,87,4400000.0,10000.0,Olympique de Marseille,Ligue 1,"CB, CDM",70.0,37.0,65.0,63.0,69.0,74.0
+Han Kwang Song,Kwang Song Han,19,68,87,1900000.0,2000.0,Perugia,Serie B,ST,76.0,66.0,49.0,71.0,36.0,48.0
+P. Pellegri,Pietro Pellegri,17,67,87,1500000.0,10000.0,Monaco,Ligue 1,ST,68.0,65.0,53.0,66.0,20.0,59.0
+A. Bastoni,Alessandro Bastoni,19,67,87,1500000.0,6000.0,Parma,Serie B,CB,54.0,33.0,43.0,41.0,70.0,62.0
+M. Vandevoordt,Maarten Vandevoordt,19,71,87,4300000.0,3000.0,Genk,Jupiler Pro League,GK,,,,,,
+H. Mastour,Hachim Mastour,17,67,87,1400000.0,3000.0,Málaga,La Liga 2,"CAM, CF, RW",72.0,61.0,60.0,76.0,16.0,38.0
+M. Vandevoordt,Maarten Vandevoordt,18,68,87,2700000.0,550.0,Genk,Jupiler Pro League,GK,,,,,,
+M. Greenwood,Mason Greenwood,17,67,87,1500000.0,7000.0,Manchester United,Premier League,"CF, RM, ST",76.0,66.0,61.0,68.0,36.0,59.0
+Aleñá,Carles Aleñá Castillo,19,71,87,5000000.0,4000.0,FC Barcelona B,La Liga 2,"CM, CAM, RM",58.0,53.0,73.0,76.0,48.0,56.0
+D. Caicedo,Deiber Jair Caicedo Mideros,20,68,86,3200000.0,1000.0,Deportivo Cali,Liga BetPlay,RM,82.0,60.0,59.0,77.0,31.0,52.0
+R. Aït-Nouri,Rayan Aït-Nouri,19,71,86,4300000.0,7000.0,Angers SCO,Ligue 2,LB,68.0,42.0,62.0,70.0,69.0,49.0
+J. Gvardiol,Joško Gvardiol,18,69,86,3300000.0,500.0,Dinamo Zagreb,1. HNL,"CB, LB",77.0,41.0,63.0,65.0,65.0,78.0
+N. Madueke,Chukwunonso Tristan Madueke,18,70,86,4000000.0,3000.0,PSV,Eredivisie,"RM, ST",78.0,65.0,64.0,78.0,36.0,56.0
+S. Pafundi,Simone Pafundi,17,67,86,2500000.0,750.0,Udinese,Serie A,"CAM, RM",78.0,65.0,66.0,73.0,46.0,48.0
+Vallejo,Jesús Vallejo Lázaro,18,74,86,4500000.0,10000.0,Real Zaragoza,La Liga 2,"CB, RB",71.0,38.0,55.0,57.0,77.0,70.0
+Unai López,Unai López Cabrera,19,72,86,4300000.0,2000.0,Athletic Club de Bilbao B,La Liga 2,"CAM, CM, RW",73.0,54.0,75.0,73.0,46.0,61.0
+D. Doué,Désiré Doué,18,71,86,4400000.0,9000.0,Rennes,Ligue 1,"CAM, RW",77.0,66.0,65.0,76.0,33.0,55.0
+A. Vranckx,Aster Jan Vranckx,17,66,86,2300000.0,600.0,Mechelen,Jupiler Pro League,"CM, CDM",71.0,56.0,64.0,68.0,58.0,72.0
+L. Netz,Luca Netz,17,63,86,1500000.0,500.0,Hertha BSC,2. Bundesliga,"LB, LM",69.0,36.0,44.0,59.0,62.0,61.0
+J. Doku,Jérémy Doku,17,66,86,1300000.0,1000.0,Anderlecht,Jupiler Pro League,RW,88.0,51.0,56.0,74.0,26.0,44.0
+E. Millot,Enzo Camille Alain Millot,16,63,86,800000.0,900.0,Monaco,Ligue 1,CM,73.0,55.0,63.0,70.0,50.0,48.0
+M. Ihattaren,Mohamed Amine Ihattaren,17,68,86,1800000.0,900.0,PSV,Eredivisie,"CAM, RW",72.0,55.0,66.0,73.0,41.0,53.0
+G. Prestianni,Gianluca Prestianni Gross,17,70,86,4000000.0,1000.0,Vélez Sarsfield,Liga Profesional,"RM, CAM, RW",88.0,60.0,62.0,77.0,35.0,46.0
+B. Drągowski,Bartłomiej Drągowski,18,71,86,2900000.0,10000.0,Fiorentina,Serie A,GK,,,,,,
+Eduardo Quaresma,Eduardo Filipe Quaresma Vieira Coimbra Simões,18,72,86,5000000.0,2000.0,Sporting CP,Liga Portugal,CB,61.0,31.0,47.0,55.0,72.0,67.0
+H. Traorè,Hamed Junior Traorè,19,70,86,3800000.0,2000.0,Sassuolo,Serie A,"CAM, CM",66.0,66.0,68.0,73.0,56.0,61.0
+O. Skipp,Oliver Skipp,18,67,86,1500000.0,6000.0,Tottenham Hotspur,Premier League,"CDM, CM",63.0,45.0,63.0,63.0,62.0,62.0
+C. Ferreira,Cristian Ezequiel Ferreira,19,70,86,3800000.0,7000.0,River Plate,Liga Profesional,"CM, CAM",75.0,69.0,73.0,74.0,49.0,61.0
+B. Šeško,Benjamin Šeško,18,68,86,3100000.0,5000.0,Salzburg,Bundesliga,ST,71.0,67.0,60.0,67.0,42.0,73.0
+J. Sands,James Hoban Sands,18,66,86,1200000.0,700.0,New York City,Major League Soccer,"CDM, CB",57.0,49.0,58.0,64.0,64.0,63.0
+P. Pomykal,Paxton Pomykal,19,69,86,2300000.0,2000.0,Dallas,Major League Soccer,"CAM, CM, RM",74.0,58.0,68.0,68.0,54.0,63.0
+P. Pellegri,Pietro Pellegri,18,67,86,1600000.0,5000.0,Monaco,Ligue 1,ST,68.0,65.0,54.0,66.0,20.0,63.0
+J. Hurtado,Jan Carlos Hurtado Anchico,19,70,86,3800000.0,8000.0,Boca Juniors,Liga Profesional,ST,83.0,68.0,60.0,72.0,24.0,68.0
+Fábio Carvalho,Fábio Leandro Carvalho,18,67,86,2600000.0,6000.0,Fulham,Premier League,CAM,75.0,60.0,60.0,70.0,34.0,46.0
+L. Stergiou,Leonidas Stergiou,19,67,86,2500000.0,2000.0,St. Gallen,Super League,CB,65.0,32.0,46.0,49.0,68.0,72.0
+N. Weiper,Nelson Felix Patrick Weiper,18,66,86,2400000.0,3000.0,FSV Mainz 05,Bundesliga,ST,66.0,65.0,46.0,65.0,25.0,68.0
+P. Wanner,Paul Wanner,17,63,86,1500000.0,1000.0,Elversberg,2. Bundesliga,"CAM, LM, RM",68.0,49.0,61.0,66.0,44.0,44.0
+B. Arrey-Mbi,Bright Akwo Arrey-Mbi,17,60,86,950000.0,500.0,Bayern München II,3. Liga,"CB, LB",68.0,29.0,45.0,54.0,58.0,68.0
+M. Solomon,Manor Solomon,19,70,86,3800000.0,500.0,Shakhtar Donetsk,Premier League,"RM, LM, CAM",79.0,56.0,63.0,75.0,33.0,45.0
+B. Saka,Bukayo Saka,17,65,86,1200000.0,2000.0,Arsenal,Premier League,"LM, RM",83.0,60.0,58.0,67.0,37.0,59.0
+A. Hložek,Adam Hložek,16,70,86,3500000.0,500.0,Sparta Praha,Fortuna Liga,"RW, ST, RM",74.0,68.0,66.0,74.0,30.0,73.0
+V. Černý,Václav Černý,18,69,86,2000000.0,7000.0,Ajax,Eredivisie,"RW, LW",85.0,62.0,57.0,77.0,23.0,42.0
+J. David,Jonathan Christian David,18,66,86,1300000.0,4000.0,Gent,Jupiler Pro League,ST,80.0,66.0,42.0,67.0,24.0,55.0
+Y. Adli,Yacine Adli,17,65,86,1200000.0,8000.0,Paris Saint Germain,Ligue 1,"CM, CAM",61.0,53.0,64.0,71.0,57.0,60.0
+D. Scarlett,Dane Pharrell Scarlett,17,63,86,1500000.0,3000.0,Tottenham Hotspur,Premier League,ST,72.0,62.0,46.0,60.0,20.0,56.0
+Lee Kang In,이강인 Kang In Lee,17,70,86,3500000.0,9000.0,Valencia,La Liga,"CAM, LM, RM",68.0,66.0,68.0,76.0,27.0,46.0
+J. Vargas,Jeisson Andrés Vargas Salazar,18,70,86,2600000.0,9000.0,Estudiantes,Liga Profesional,LW,82.0,67.0,65.0,72.0,35.0,56.0
+A. Gouiri,Amine Gouiri,18,67,86,1600000.0,10000.0,Olympique Lyonnais,Ligue 1,ST,71.0,65.0,52.0,69.0,21.0,61.0
+W. Geubbels,Willem Geubbels,16,64,86,1000000.0,6000.0,Monaco,Ligue 1,ST,84.0,62.0,53.0,64.0,26.0,53.0
+A. Dabo,Abdoulaye Dabo,17,62,86,650000.0,3000.0,Nantes,Ligue 1,"CM, LM",67.0,58.0,62.0,65.0,61.0,55.0
+S. Diop,Sofiane Diop,18,65,86,1200000.0,7000.0,Monaco,Ligue 1,CAM,74.0,58.0,58.0,70.0,31.0,38.0
+Francisco Conceição,Francisco Fernandes Conceição,18,70,86,4000000.0,3000.0,Porto,Liga Portugal,RM,78.0,61.0,63.0,76.0,31.0,44.0
+E. Ampadu,Ethan Kwame Colm Raymond Ampadu,18,67,86,1500000.0,7000.0,RB Leipzig,Bundesliga,"CB, CDM",61.0,30.0,54.0,59.0,66.0,66.0
+R. Oxford,Reece Oxford,17,66,86,1100000.0,10000.0,West Ham United,Premier League,"CB, CDM",71.0,33.0,50.0,53.0,65.0,67.0
+M. Boadu,Myron Boadu,18,70,86,3700000.0,3000.0,AZ Alkmaar,Eredivisie,ST,85.0,67.0,51.0,74.0,28.0,62.0
+L. Bailey,Leon Bailey Butler,18,74,86,5000000.0,10000.0,Genk,Jupiler Pro League,"LM, RM",93.0,67.0,69.0,78.0,29.0,60.0
+C. Clark,Caden Clark,18,66,86,2400000.0,6000.0,New York RB,Major League Soccer,"CAM, CM",75.0,59.0,64.0,67.0,43.0,55.0
+E. Ampadu,Ethan Kwame Colm Raymond Ampadu,17,63,86,725000.0,7000.0,Chelsea,Premier League,"CB, CDM",58.0,30.0,53.0,57.0,63.0,62.0
+C. Kouamé,Christian Michael Kouamé Kouakou,20,71,86,5000000.0,10000.0,Genoa,Serie A,"ST, CF",82.0,68.0,58.0,69.0,28.0,69.0
+C. Chukwuemeka,Carney Chibueze Chukwuemeka,18,64,86,1900000.0,7000.0,Chelsea,Premier League,"CM, CAM, CF",65.0,59.0,64.0,70.0,49.0,57.0
+T. Kubo,久保 建英,17,63,86,800000.0,1000.0,Yokohama F. Marinos,J-League,"CAM, RM, ST, LM",81.0,47.0,58.0,73.0,39.0,48.0
+L. Romero,Luka Romero Bezzana,17,67,86,2500000.0,3000.0,Lazio,Serie A,"RW, CAM",75.0,54.0,64.0,72.0,32.0,48.0
+J. Bynoe-Gittens,Jamie Bynoe-Gittens,18,71,86,4400000.0,9000.0,Borussia Dortmund,Bundesliga,LM,88.0,59.0,58.0,80.0,24.0,52.0
+R. Bardghji,Roony Bardghji,17,68,86,3000000.0,2000.0,København,Superliga,RW,74.0,64.0,61.0,73.0,28.0,52.0
+T. Bischof,Tom Bischof,18,66,86,2400000.0,3000.0,TSG Hoffenheim,Bundesliga,CAM,61.0,55.0,65.0,71.0,43.0,50.0
+M. Baturina,Martin Baturina,19,70,86,4100000.0,500.0,Dinamo Zagreb,1. HNL,"CM, CAM",74.0,64.0,71.0,78.0,57.0,62.0
+B. El Khannouss,Bilal El Khannouss,19,71,86,4400000.0,6000.0,Genk,Jupiler Pro League,"CAM, CM",71.0,57.0,72.0,77.0,36.0,52.0
+A. Schjelderup,Andreas Rædergård Schjelderup,19,71,86,4400000.0,5000.0,Nordsjælland,Superliga,"LM, CAM, ST",78.0,65.0,64.0,77.0,35.0,53.0
+G. Scalvini,Giorgio Scalvini,18,70,86,3800000.0,6000.0,Atalanta,Serie A,CB,55.0,29.0,44.0,52.0,72.0,67.0
+A. Güler,Arda Güler,17,69,86,3500000.0,3000.0,Fenerbahçe,Super Lig,"CAM, CM, RW",68.0,63.0,72.0,74.0,41.0,42.0
+António Silva,António João Pereira Albuquerque Tavares Silva,18,66,86,2200000.0,1000.0,Benfica,Liga Portugal,CB,76.0,31.0,49.0,56.0,65.0,70.0
+Sávio,Sávio Moreira de Oliveira,18,70,86,4000000.0,5000.0,PSV,Eredivisie,RW,67.0,63.0,70.0,72.0,30.0,42.0
+C. Früchtl,Christian Früchtl,18,65,86,1000000.0,4000.0,FC Bayern München,Bundesliga,GK,,,,,,
+A. Fatawu Issahaku,Abdul Fatawu Issahaku,18,67,86,2600000.0,2000.0,Sporting CP,Liga Portugal,"CAM, RW",82.0,68.0,63.0,73.0,35.0,51.0
+Vitinho,Victor Hugo Santana Carvalho,19,71,86,5000000.0,4000.0,FC Barcelona B,La Liga 2,"CAM, LW, RW, CM",70.0,66.0,66.0,72.0,35.0,50.0
+Han Kwang Song,Kwang Song Han,18,67,86,1600000.0,3000.0,Perugia,Serie B,ST,79.0,65.0,49.0,71.0,27.0,49.0
+J. Sancho,Jadon Sancho,17,63,86,800000.0,6000.0,Borussia Dortmund,Bundesliga,"LW, RW",76.0,55.0,55.0,71.0,30.0,47.0
+A. Lafont,Alban Lafont,17,74,86,4400000.0,9000.0,Toulouse,Ligue 1,GK,,,,,,
+R. Sessegnon,Kouassi Ryan Sessegnon,17,67,86,1300000.0,10000.0,Fulham,Premier League,"LB, LW",82.0,59.0,61.0,67.0,60.0,60.0
+C. Früchtl,Christian Früchtl,17,65,86,975000.0,7000.0,FC Bayern München,Bundesliga,GK,,,,,,
+B. Drągowski,Bartłomiej Drągowski,19,71,86,4200000.0,10000.0,Fiorentina,Serie A,GK,,,,,,
+R. Živković,Richairo Živković,17,69,86,825000.0,9000.0,Ajax,Eredivisie,ST,79.0,72.0,55.0,67.0,30.0,56.0
+A. Halilović,Alen Halilović,18,70,86,1200000.0,2000.0,FC Barcelona B,La Liga 2,"CM, RW, CF",75.0,65.0,75.0,76.0,48.0,37.0
+S. Esposito,Sebastiano Esposito,17,66,86,2300000.0,5000.0,Inter,Serie A,ST,69.0,66.0,61.0,67.0,34.0,57.0
+L. Stergiou,Leonidas Stergiou,18,67,86,2400000.0,1000.0,St. Gallen,Super League,CB,65.0,32.0,46.0,49.0,67.0,72.0
+V. Černý,Václav Černý,17,66,86,1200000.0,6000.0,Ajax,Eredivisie,LW,85.0,55.0,57.0,76.0,23.0,35.0
+B. Drągowski,Bartłomiej Drągowski,17,71,86,2800000.0,6000.0,Jagiellonia Białystok,Ekstraklasa,GK,,,,,,
+Carlos Forbs,Carlos Roberto Forbs Borges,19,70,86,4100000.0,6000.0,Ajax,Eredivisie,"RW, LW",86.0,68.0,61.0,70.0,35.0,55.0
+N. Lahmadi,Noah Lahmadi,18,65,86,2300000.0,2000.0,Toulouse,Ligue 1,"CM, CDM",67.0,60.0,66.0,66.0,58.0,60.0
+Y. Demir,Yusuf Demir,17,64,85,1800000.0,850.0,Rapid Wien,Bundesliga,"CAM, RW",71.0,62.0,57.0,73.0,19.0,47.0
+T. Parrott,Troy Daniel Parrott,18,65,85,2000000.0,8000.0,Millwall,Championship,ST,73.0,66.0,53.0,63.0,27.0,59.0
+P. De la Vega,Pedro De la Vega,19,71,85,4400000.0,8000.0,Lanús,Liga Profesional,"RW, LW",86.0,67.0,61.0,76.0,32.0,62.0
+G. Donsah,Godfred Donsah,19,69,85,2100000.0,7000.0,Bologna,Serie A,CM,81.0,58.0,67.0,74.0,60.0,77.0
+André Moreira,André Campos Moreira,19,70,85,2500000.0,4000.0,União da Madeira,Liga Portugal,GK,,,,,,
+K. Iheanacho,Kelechi Promise Iheanacho,18,67,85,1400000.0,8000.0,Manchester City,Premier League,ST,85.0,68.0,55.0,68.0,21.0,63.0
+S. Bergwijn,Steven Charles Bergwijn,17,66,85,1200000.0,6000.0,PSV,Eredivisie,LW,82.0,63.0,59.0,73.0,27.0,56.0
+L. Miley,Lewis Miley,17,63,85,1500000.0,2000.0,Newcastle United,Premier League,"CM, CDM, CAM",61.0,58.0,63.0,67.0,53.0,52.0
+João Neves,João Pedro Gonçalves Neves,18,69,85,3500000.0,2000.0,Benfica,Liga Portugal,CM,69.0,57.0,70.0,71.0,60.0,51.0
+Mateus Fernandes,Mateus Gonçalo Espanha Fernandes,17,66,85,2100000.0,500.0,Sporting CP,Liga Portugal,"CM, CAM",75.0,56.0,66.0,73.0,51.0,62.0
+L. King,Leon Thomson King,19,66,85,2100000.0,7000.0,Rangers,Premiership,CB,71.0,34.0,60.0,65.0,66.0,65.0
+M. Lazetić,Marko Lazetić,18,65,85,2000000.0,6000.0,Milan,Serie A,ST,67.0,66.0,54.0,66.0,34.0,63.0
+Henrique Araújo,Henrique Pereira Araújo,20,71,85,4500000.0,7000.0,Benfica,Liga Portugal,ST,70.0,71.0,56.0,65.0,27.0,70.0
+V. Thill,Vincent Thill,17,63,85,800000.0,2000.0,Metz,Ligue 1,"CAM, CF",76.0,52.0,58.0,68.0,18.0,37.0
+O. Rekik,Omar Rekik,18,63,85,1500000.0,2000.0,Hertha BSC,2. Bundesliga,CB,68.0,35.0,38.0,45.0,64.0,64.0
+J. Vagnoman,Josha Mamadou Karaboue Vagnoman,19,69,85,3500000.0,4000.0,Hamburger SV,2. Bundesliga,"RB, LM, LB",87.0,44.0,60.0,68.0,63.0,72.0
+S. Esposito,Sebastiano Esposito,16,63,85,825000.0,2000.0,Inter,Serie A,ST,52.0,63.0,50.0,66.0,26.0,52.0
+M. Kana,Marco Kana,17,65,85,1800000.0,500.0,Anderlecht,Jupiler Pro League,"CB, CDM, CM",70.0,32.0,60.0,67.0,64.0,63.0
+T. Nianzou,Tanguy-Austin Nianzou Kouassi,18,71,85,4100000.0,10000.0,FC Bayern München,Bundesliga,"CB, CDM",69.0,37.0,55.0,62.0,71.0,74.0
+X. Simons,Xavi Quentin Shay Simons,17,65,85,1900000.0,2000.0,Paris Saint Germain,Ligue 1,CM,62.0,54.0,59.0,69.0,52.0,53.0
+Fábio Silva,Fábio Daniel Soares Silva,16,68,85,1800000.0,1000.0,Porto,Liga Portugal,ST,74.0,67.0,45.0,72.0,22.0,64.0
+C. Carter-Vickers,Cameron Carter-Vickers,19,68,85,1700000.0,10000.0,Sheffield United,Premier League,CB,65.0,23.0,46.0,51.0,68.0,72.0
+Christian Rivera,Christian Rivera Hernández,19,71,85,4600000.0,7000.0,SD Eibar,La Liga 2,"CDM, CM",55.0,48.0,67.0,67.0,67.0,70.0
+E. Mor,Emre Mor,19,70,85,3800000.0,10000.0,Celta de Vigo,La Liga,"RM, ST",85.0,62.0,55.0,84.0,25.0,51.0
+N. Nández,Nahitan Michel Nández Acosta,21,70,85,3500000.0,10000.0,Boca Juniors,Liga Profesional,"CDM, CM",70.0,49.0,64.0,61.0,67.0,63.0
+M. Perrone,Máximo Perrone,19,70,85,3800000.0,5000.0,Vélez Sarsfield,Liga Profesional,"CM, CDM",62.0,54.0,63.0,73.0,69.0,60.0
+J. Spileers,Jorne Spileers,18,69,85,3300000.0,3000.0,Club Brugge,Jupiler Pro League,CB,68.0,31.0,58.0,57.0,70.0,69.0
+D. Alli,Bamidele Alli,19,69,85,2100000.0,10000.0,Tottenham Hotspur,Premier League,"CM, CDM, CAM",71.0,65.0,64.0,69.0,56.0,68.0
+A. Vermeeren,Arthur Vermeeren,18,72,85,5000000.0,6000.0,Antwerp,Jupiler Pro League,"CDM, CM",67.0,53.0,70.0,73.0,67.0,64.0
+Sávio,Sávio Moreira de Oliveira,19,71,85,4400000.0,3000.0,Girona,La Liga,"RM, LM",81.0,63.0,66.0,72.0,30.0,47.0
+C. Tzolis,Christos Tzolis,18,67,85,2600000.0,500.0,PAOK,Super League,"RW, LW, ST",80.0,67.0,59.0,68.0,32.0,63.0
+L. Morales,Lautaro Alberto Morales,21,72,85,5000000.0,6000.0,Lanús,Liga Profesional,GK,,,,,,
+L. Agoumé,Lucien Jefferson Agoume,17,63,85,800000.0,1000.0,Inter,Serie A,CM,65.0,54.0,59.0,64.0,46.0,63.0
+K. Hoever,Ki-Jana Delano Hoever,17,62,85,625000.0,550.0,Liverpool,Premier League,"RB, CB",72.0,36.0,57.0,64.0,61.0,62.0
+G. Plata,Gonzalo Jordy Plata Jiménez,18,70,85,3700000.0,3000.0,Sporting CP,Liga Portugal,"LW, RW",83.0,64.0,61.0,76.0,28.0,60.0
+Marcos Antonio,Marcos Antonio Silva Santos,19,65,85,1100000.0,500.0,Shakhtar Donetsk,Premier League,CM,72.0,51.0,65.0,67.0,41.0,55.0
+A. Kutucu,Ahmed Kutucu,19,68,85,1900000.0,8000.0,Schalke 04,2. Bundesliga,"ST, CF, RW",79.0,69.0,55.0,68.0,41.0,67.0
+T. Parrott,Troy Daniel Parrott,17,64,85,1000000.0,4000.0,Tottenham Hotspur,Premier League,ST,76.0,64.0,53.0,62.0,26.0,58.0
+R. Piccoli,Roberto Piccoli,18,64,85,1000000.0,5000.0,Atalanta,Serie A,ST,55.0,63.0,47.0,57.0,34.0,63.0
+Y. Demir,Yusuf Demir,18,70,85,3700000.0,6000.0,FC Barcelona,La Liga,"CAM, RM",84.0,66.0,65.0,78.0,19.0,50.0
+Alejandro Garnacho,Alejandro Garnacho Ferreyra,18,64,85,1900000.0,9000.0,Manchester United,Premier League,"LW, LM, RM",80.0,59.0,57.0,65.0,24.0,52.0
+Diego Moreira,Diego Manuel Jadon da Silva Moreira,17,67,85,2500000.0,950.0,Benfica,Liga Portugal,LW,86.0,59.0,57.0,75.0,31.0,65.0
+Rui Pedro,Rui Pedro da Silva e Sousa,19,70,85,3800000.0,5000.0,Boavista,Liga Portugal,ST,69.0,67.0,56.0,70.0,25.0,64.0
+B. Brereton Díaz,Benjamin Anthony Brereton Díaz,18,66,85,1300000.0,6000.0,Nottingham Forest,Premier League,"ST, RM",86.0,64.0,53.0,69.0,35.0,62.0
+Oriol Busquets,Oriol Busquets Mas,18,66,85,1200000.0,2000.0,FC Barcelona B,La Liga 2,"CDM, CM",59.0,39.0,58.0,59.0,67.0,72.0
+Jordi Mboula,Jordi Mboula Queralt,18,68,85,1800000.0,10000.0,Monaco,Ligue 1,"RM, ST",82.0,62.0,57.0,71.0,31.0,63.0
+A. Vranckx,Aster Jan Vranckx,18,67,85,2600000.0,6000.0,VfL Wolfsburg,Bundesliga,"CM, CDM",72.0,57.0,65.0,68.0,60.0,73.0
+Fresneda,Iván Fresneda Corraliza,18,72,85,5000000.0,2000.0,Sporting CP,Liga Portugal,RB,76.0,41.0,60.0,74.0,68.0,69.0
+A. van Axel Dongen,Amourrichio Van Axel Dongen,18,65,85,2000000.0,2000.0,Ajax,Eredivisie,LW,81.0,59.0,57.0,68.0,29.0,59.0
+Henrique Araújo,Henrique Pereira Araújo,21,71,85,4600000.0,7000.0,Famalicão,Liga Portugal,ST,70.0,71.0,56.0,65.0,27.0,70.0
+A. Fatawu Issahaku,Abdul Fatawu Issahaku,19,69,85,3600000.0,4000.0,Leicester City,Championship,"LW, RW",82.0,69.0,65.0,74.0,35.0,54.0
+Rúben Neves,Rúben Diogo da Silva Neves,19,75,85,5000000.0,9000.0,Porto,Liga Portugal,"CDM, CM",66.0,65.0,76.0,73.0,71.0,71.0
+K. Kozłowski,Kacper Kozłowski,17,68,85,3000000.0,500.0,Pogoń Szczecin,Ekstraklasa,"CAM, CM",74.0,55.0,62.0,75.0,59.0,67.0
+M. Juwara,Musa Juwara,19,67,85,2700000.0,3000.0,Crotone,Serie B,ST,84.0,65.0,57.0,73.0,30.0,51.0
+E. Abouchabaka,Elias Abouchabaka,17,62,85,650000.0,6000.0,RB Leipzig,Bundesliga,CAM,59.0,57.0,59.0,66.0,28.0,47.0
+M. Saracchi,Marcelo Josemir Saracchi Pintos,19,70,85,3400000.0,8000.0,River Plate,Liga Profesional,"LB, LWB",72.0,69.0,69.0,68.0,69.0,68.0
+J. Bakayoko,Johan Bakayoko,19,68,85,3100000.0,5000.0,PSV,Eredivisie,RW,86.0,61.0,58.0,71.0,29.0,59.0
+D. Scarlett,Dane Pharrell Scarlett,18,65,85,2000000.0,8000.0,Portsmouth,League One,ST,80.0,63.0,51.0,65.0,21.0,61.0
+M. Svilar,Mile Svilar,18,67,85,1300000.0,1000.0,Benfica,Liga Portugal,GK,,,,,,
+R. Nelson,Reiss Nelson,18,65,85,1100000.0,10000.0,Arsenal,Premier League,RW,84.0,57.0,56.0,71.0,34.0,45.0
+F. Valverde,Federico Santiago Valverde Dipetta,18,70,85,3600000.0,10000.0,Deportivo de La Coruña,La Liga 2,"CM, CAM, RM",60.0,66.0,67.0,65.0,55.0,56.0
+L. Netz,Luca Netz,18,68,85,2900000.0,3000.0,Borussia Mönchengladbach,Bundesliga,"LB, LM",77.0,43.0,56.0,64.0,64.0,61.0
+A. Bella Kotchap,Armel Bella Kotchap,19,71,85,4200000.0,8000.0,VfL Bochum 1848,Bundesliga,CB,76.0,25.0,50.0,47.0,71.0,74.0
+Mollejo,Víctor Mollejo Carpintero,18,65,85,1100000.0,5000.0,Atlético Madrid,La Liga,RW,71.0,60.0,59.0,67.0,26.0,39.0
+R. Gravenberch,Ryan Jiro Gravenberch,17,67,85,1500000.0,850.0,Ajax,Eredivisie,"CM, CDM",72.0,61.0,67.0,71.0,54.0,67.0
+J. Álvarez,Julián Álvarez,19,67,85,1600000.0,5000.0,River Plate,Liga Profesional,ST,75.0,66.0,60.0,71.0,27.0,45.0
+Fernando,Fernando Dos Santos Pedro,20,71,85,5000000.0,500.0,Shakhtar Donetsk,Premier League,LM,86.0,61.0,60.0,77.0,30.0,43.0
+S. Biuk,Stipe Biuk,19,69,85,3600000.0,500.0,Hajduk Split,1. HNL,"LW, LM",80.0,60.0,64.0,72.0,35.0,59.0
+Daniel Podence,Daniel Castelo Podence,20,72,85,4100000.0,7000.0,Moreirense,Liga Portugal,"CF, RM",88.0,60.0,63.0,80.0,29.0,47.0
+Pablo Maffeo,Pablo Carmine Maffeo Becerra,19,72,85,5000000.0,8000.0,Girona,La Liga,"RB, RWB, RM",86.0,52.0,65.0,75.0,69.0,60.0
+Jorge Sáenz,Jorge Sáenz de Miera Colmeiro,20,71,85,4700000.0,5000.0,Tenerife,La Liga 2,"CB, RB",65.0,41.0,63.0,62.0,70.0,77.0
+J. Arp,Jann-Fiete Arp,17,63,85,825000.0,4000.0,Hamburger SV,2. Bundesliga,ST,59.0,64.0,42.0,61.0,21.0,52.0
+R. Matondo,Rabbi Matondo,18,66,85,1300000.0,3000.0,Schalke 04,2. Bundesliga,"RM, LM",88.0,56.0,61.0,68.0,31.0,49.0
+Y. Adli,Yacine Adli,18,66,85,1300000.0,3000.0,Bordeaux,Ligue 2,"CM, CAM",61.0,53.0,65.0,71.0,57.0,60.0
+A. Marin,Antonio Marin,18,66,85,1300000.0,500.0,Dinamo Zagreb,1. HNL,"LW, RW, CAM",79.0,58.0,61.0,72.0,32.0,55.0
+Sergio Gómez,Sergio Gómez Martín,18,68,85,1800000.0,8000.0,Huesca,La Liga 2,"CAM, CM, LM",70.0,63.0,68.0,74.0,42.0,41.0
+M. Pellegrini,Matías Pellegrini,19,68,85,1900000.0,4000.0,Estudiantes,Liga Profesional,"LM, CM, RW",79.0,61.0,60.0,72.0,49.0,51.0
+B. Badiashile,Benoît Badiashile Mukinayi,18,68,85,1700000.0,4000.0,Monaco,Ligue 1,CB,54.0,30.0,49.0,49.0,66.0,71.0
+R. Vargas,Rubén Estephan Vargas Martínez,20,70,85,3900000.0,10000.0,FC Augsburg,Bundesliga,"RM, LM",80.0,65.0,64.0,71.0,53.0,63.0
+O. Popescu,Octavian George Popescu,18,70,85,3700000.0,4000.0,FCSB,Liga 1,"LW, RW",82.0,63.0,65.0,75.0,35.0,53.0
+L. Delap,Liam Delap,18,64,85,1900000.0,9000.0,Manchester City,Premier League,ST,76.0,64.0,47.0,61.0,24.0,66.0
+Talles Magno,Talles Magno Bacelar Martins,19,67,85,2600000.0,2000.0,New York City,Major League Soccer,"LM, CF",85.0,52.0,55.0,76.0,21.0,60.0
+R. Lavia,Roméo Lavia,17,62,85,1200000.0,700.0,Manchester City,Premier League,CDM,58.0,41.0,52.0,59.0,62.0,59.0
+S. Özcan,Salih Özcan,19,70,85,3800000.0,6000.0,FC Köln,Bundesliga,"CM, CDM",66.0,55.0,67.0,73.0,67.0,66.0
+M. Edwards,Marcus Edwards,19,66,85,1400000.0,10000.0,Tottenham Hotspur,Premier League,"RM, CAM",73.0,58.0,60.0,76.0,35.0,42.0
+M. Varnier,Marco Varnier,20,70,85,3500000.0,10000.0,Atalanta,Serie A,CB,69.0,38.0,50.0,54.0,69.0,75.0
+M. Romero,Maximiliano Samuel Romero,19,70,85,3800000.0,5000.0,PSV,Eredivisie,ST,76.0,71.0,49.0,66.0,25.0,67.0
+C. Patino,Charlie Patino,18,64,85,1900000.0,5000.0,Blackpool,League One,"CM, CDM",64.0,47.0,63.0,66.0,60.0,59.0
+L. Oyen,Luca Oyen,19,67,85,2600000.0,4000.0,Genk,Jupiler Pro League,"LW, CAM",77.0,58.0,64.0,72.0,39.0,50.0
+Cucurella,Marc Cucurella Saseta,18,67,85,1400000.0,3000.0,FC Barcelona B,La Liga 2,LB,89.0,46.0,60.0,61.0,60.0,68.0
+N. Cozza,Nicolas Louis Marcel Cozza,20,69,85,2200000.0,9000.0,Montpellier,Ligue 1,"CB, LWB",76.0,36.0,61.0,63.0,69.0,71.0
+J. Carranza,Julián Simón Carranza,19,67,85,1600000.0,4000.0,Banfield,Liga Profesional,ST,69.0,65.0,54.0,66.0,33.0,61.0
+A. Almendra,Agustín Ezequiel Almendra,19,69,85,2200000.0,6000.0,Boca Juniors,Liga Profesional,"CM, CDM",65.0,57.0,67.0,69.0,59.0,61.0
+M. Vušković,Mario Vušković,19,72,85,5000000.0,500.0,Hamburger SV,2. Bundesliga,CB,65.0,29.0,40.0,46.0,72.0,73.0
+S. Biuk,Stipe Biuk,18,68,85,3100000.0,500.0,Hajduk Split,1. HNL,"LM, LW",78.0,59.0,63.0,67.0,35.0,59.0
+Vallejo,Jesús Vallejo Lázaro,19,73,85,4100000.0,10000.0,Eintracht Frankfurt,Bundesliga,CB,71.0,38.0,55.0,57.0,75.0,69.0
+R. Gauld,Ryan Gauld,20,73,85,5000000.0,8000.0,Vitória de Setúbal,Liga Portugal,"CAM, LM",85.0,62.0,70.0,78.0,37.0,47.0
+K. Dolberg,Kasper Dolberg Rasmussen,18,68,85,1700000.0,7000.0,Ajax,Eredivisie,ST,68.0,68.0,54.0,65.0,19.0,61.0
+Matheus Pereira,Matheus Pereira da Silva,18,70,85,2600000.0,5000.0,Empoli,Serie A,CAM,74.0,58.0,65.0,77.0,37.0,54.0
+José Gomes,José Gomes,17,66,85,1200000.0,3000.0,Benfica,Liga Portugal,ST,81.0,62.0,42.0,66.0,27.0,56.0
+N. Ünüvar,Naci Ünüvar,19,67,85,2600000.0,4000.0,Trabzonspor,Super Lig,"LW, CAM",69.0,58.0,67.0,72.0,37.0,44.0
+L. Itter,Gian-Luca Itter,19,67,85,1500000.0,6000.0,VfL Wolfsburg,Bundesliga,LB,69.0,44.0,63.0,68.0,66.0,61.0
+M. Cho,Mohamed-Ali Cho,18,70,85,3700000.0,7000.0,Real Sociedad,La Liga,ST,81.0,68.0,60.0,76.0,26.0,56.0
+M. Godts,Mika Marcel Godts,17,64,85,1800000.0,800.0,Genk,Jupiler Pro League,LW,76.0,50.0,60.0,71.0,38.0,38.0
+W. Gnonto,Degnand Wilfried Gnonto,18,69,85,3600000.0,8000.0,Leeds United,Championship,"ST, LM",86.0,66.0,61.0,76.0,31.0,64.0
+Gavi,Pablo Martín Páez Gavira,16,66,85,2100000.0,4000.0,FC Barcelona,La Liga,CM,66.0,53.0,67.0,69.0,50.0,48.0
+Rodrigo Gomes,Rodrigo Martins Gomes,18,67,85,2600000.0,2000.0,Sporting Braga,Liga Portugal,"LM, RW",77.0,61.0,58.0,69.0,52.0,51.0
+M. Shaparenko,Mykola Shaparenko,19,69,85,2200000.0,500.0,Dynamo Kyiv,Premier League,"CM, CDM, CAM",58.0,60.0,66.0,67.0,64.0,54.0
+V. Supriaha,Vladyslav Supriaha,18,66,85,1300000.0,500.0,Dynamo Kyiv,Premier League,ST,82.0,63.0,42.0,72.0,17.0,54.0
+M. Boadu,Myron Boadu,17,66,85,1300000.0,3000.0,AZ Alkmaar,Eredivisie,ST,78.0,64.0,47.0,71.0,28.0,57.0
+Matheus Cunha,Matheus Santos Carneiro Da Cunha,19,67,85,1600000.0,9000.0,RB Leipzig,Bundesliga,"ST, RM, CF",82.0,65.0,59.0,65.0,25.0,64.0
+B. Woodburn,Benjamin Luke Woodburn,18,68,85,1800000.0,3000.0,Sheffield United,Premier League,"CAM, LW, ST",77.0,62.0,59.0,71.0,23.0,54.0
+G. Chakvetadze,Giorgi Chakvetadze,18,71,85,4900000.0,7000.0,Gent,Jupiler Pro League,CAM,76.0,59.0,68.0,75.0,34.0,49.0
+A. Tchouaméni,Aurélien Tchouaméni,18,70,85,3300000.0,9000.0,Bordeaux,Ligue 2,"CDM, CM",68.0,51.0,62.0,68.0,67.0,70.0
+João Félix,João Félix Sequeira,18,69,85,2200000.0,4000.0,Benfica,Liga Portugal,"LW, CAM",78.0,59.0,66.0,76.0,36.0,47.0
+Matheus França,Matheus França de Oliveira,19,68,85,3100000.0,9000.0,Crystal Palace,Premier League,"CAM, ST",82.0,70.0,58.0,75.0,35.0,63.0
+Fábio Silva,Fábio Daniel Soares Silva,17,69,85,3500000.0,7000.0,Wolverhampton Wanderers,Premier League,ST,75.0,69.0,45.0,72.0,22.0,64.0
+Nuno Mendes,Nuno Alexandre Tavares Mendes,18,70,85,3500000.0,2000.0,Sporting CP,Liga Portugal,"LB, LM, LWB",86.0,40.0,59.0,68.0,65.0,59.0
+H. Elliott,Harvey Elliott,17,65,85,1900000.0,4000.0,Liverpool,Premier League,RW,75.0,53.0,59.0,71.0,30.0,37.0
+M. Daramy,Mohamed Daramy,18,67,85,2600000.0,2000.0,København,Superliga,"RM, ST, LM",86.0,57.0,57.0,72.0,25.0,62.0
+L. Miller,Lennon Miller,16,59,85,900000.0,500.0,Motherwell,Premiership,CM,72.0,52.0,60.0,60.0,48.0,60.0
+P. Dorgu,Patrick Dorgu,18,64,85,1800000.0,1000.0,Lecce,Serie A,LB,77.0,50.0,54.0,67.0,57.0,52.0
+T. Werner,Timo Werner,18,70,85,1200000.0,6000.0,VfB Stuttgart,Bundesliga,"LM, ST",90.0,67.0,61.0,74.0,28.0,56.0
+R. Matondo,Rabbi Matondo,19,70,85,3800000.0,8000.0,Schalke 04,2. Bundesliga,"LM, ST, RM",94.0,57.0,64.0,73.0,37.0,49.0
+C. Echeverri,Claudio Echeverri,17,64,85,1800000.0,550.0,River Plate,Liga Profesional,CAM,79.0,53.0,56.0,72.0,36.0,41.0
+T. Land,Tygo Land,17,62,84,1200000.0,500.0,PSV,Eredivisie,CM,74.0,50.0,64.0,71.0,52.0,43.0
+A. Diao Diaoune,Assane Diao Diaoune,17,64,84,1600000.0,650.0,Real Betis,La Liga,"LM, ST",80.0,58.0,54.0,70.0,30.0,49.0
+B. Ould-Chikh,Bilal Ould-Chikh,16,66,84,600000.0,3000.0,FC Twente,Eredivisie,RW,76.0,56.0,59.0,72.0,25.0,41.0
+F. Bahlouli,Farès Bahlouli,19,65,84,450000.0,8000.0,Olympique Lyonnais,Ligue 1,"CAM, RM, LM, ST",77.0,56.0,58.0,76.0,31.0,62.0
+L. Öztunalı,Levin Mete Öztunali,18,62,84,180000.0,3000.0,Bayer 04 Leverkusen,Bundesliga,"CDM, CM",67.0,47.0,63.0,68.0,58.0,56.0
+K. Mainoo,Kobbie Mainoo,18,62,84,1200000.0,4000.0,Manchester United,Premier League,"CDM, CM, CAM",74.0,55.0,58.0,68.0,59.0,67.0
+K. Lisztes,Krisztián Lisztes,18,65,84,1800000.0,500.0,Ferencváros,NB I.,"CAM, ST",71.0,64.0,58.0,67.0,34.0,58.0
+U. Tohumcu,Umut Tohumcu,18,64,84,1600000.0,3000.0,TSG Hoffenheim,Bundesliga,"CAM, CM",60.0,59.0,63.0,68.0,38.0,44.0
+M. De Amorim,Mathias De Amorim,18,63,84,1500000.0,700.0,Bordeaux,Ligue 2,"CM, CAM",66.0,44.0,61.0,70.0,56.0,62.0
+Newerton,Newerton Martins da Silva,18,64,84,1600000.0,500.0,Shakhtar Donetsk,Premier League,"LM, RM",77.0,49.0,59.0,65.0,23.0,39.0
+C. Ndour,Cher Ndour,18,68,84,3000000.0,9000.0,Paris Saint Germain,Ligue 1,"CM, CAM",55.0,61.0,68.0,68.0,57.0,70.0
+A. Ouédraogo,Assan Ouédraogo,17,63,84,1500000.0,500.0,Schalke 04,2. Bundesliga,"CM, CAM",70.0,52.0,59.0,71.0,43.0,65.0
+V. Supriaha,Vladyslav Supriaha,20,70,84,3900000.0,500.0,Dynamo Kyiv,Premier League,ST,87.0,70.0,46.0,72.0,18.0,50.0
+André Gomes,André Nogueira Gomes,18,63,84,1400000.0,500.0,Benfica,Liga Portugal,GK,,,,,,
+S. Vos,Silvano Cliff Robbie Vos,18,65,84,1700000.0,1000.0,Ajax,Eredivisie,"CDM, CM",75.0,51.0,60.0,62.0,65.0,64.0
+K. Hoever,Ki-Jana Delano Hoever,18,63,84,1500000.0,4000.0,Wolverhampton Wanderers,Premier League,"RB, CB",71.0,36.0,57.0,64.0,61.0,62.0
+K. Dembélé,Karamoko Kader Dembélé,17,63,84,1500000.0,1000.0,Celtic,Premiership,RM,86.0,57.0,56.0,70.0,16.0,32.0
+N. Katterbach,Noah Katterbach,19,70,84,3600000.0,7000.0,FC Köln,Bundesliga,LB,74.0,40.0,58.0,73.0,66.0,58.0
+J. Álvarez,Julián Álvarez,20,71,84,4500000.0,9000.0,River Plate,Liga Profesional,"RW, RM",80.0,71.0,69.0,72.0,44.0,58.0
+I. Aliseda,Ignacio Santiago Aliseda,20,70,84,3800000.0,4000.0,Chicago Fire,Major League Soccer,"LW, RW, ST",87.0,60.0,62.0,76.0,39.0,56.0
+A. Velasco,Alan Agustín Velasco,17,64,84,1600000.0,550.0,Independiente,Liga Profesional,"LM, RM, ST",73.0,52.0,58.0,66.0,49.0,54.0
+J. Markovič,Jakub Markovič,18,69,84,2800000.0,500.0,Slavia Praha,Fortuna Liga,GK,,,,,,
+João Pedro,João Pedro Junqueira de Jesus,18,69,84,3300000.0,4000.0,Watford,Championship,"ST, LM",79.0,66.0,58.0,72.0,22.0,57.0
+E. Brignola,Enrico Brignola,18,70,84,3700000.0,10000.0,Sassuolo,Serie A,"CAM, RW, CF, RM",75.0,64.0,64.0,73.0,21.0,58.0
+M. Doucouré,Mamadou Doucouré,18,62,84,550000.0,3000.0,Borussia Mönchengladbach,Bundesliga,CB,67.0,31.0,39.0,45.0,61.0,67.0
+L. Jović,Luka Jović,18,71,84,2800000.0,7000.0,Benfica,Liga Portugal,ST,76.0,69.0,59.0,74.0,27.0,63.0
+S. Ascacíbar,Santiago Lionel Ascacíbar,19,71,84,2600000.0,6000.0,Estudiantes,Liga Profesional,CDM,71.0,45.0,60.0,60.0,73.0,63.0
+A. Harit,Amine Harit,19,67,84,1500000.0,10000.0,Nantes,Ligue 1,"CAM, CM",65.0,61.0,65.0,71.0,39.0,39.0
+L. Koleosho,Luca Warrick Koleosho,18,67,84,2600000.0,5000.0,Burnley,Premier League,"LM, RM, RW",85.0,59.0,59.0,74.0,30.0,47.0
+C. Volpato,Cristian Volpato,19,67,84,2600000.0,3000.0,Sassuolo,Serie A,"CAM, CF, RW",67.0,64.0,64.0,69.0,39.0,58.0
+N. Bassette,Norman Bassette,18,61,84,1000000.0,650.0,Mechelen,Jupiler Pro League,ST,71.0,60.0,40.0,57.0,27.0,60.0
+L. Morgalla,Leandro Morgalla,18,66,84,2000000.0,1000.0,Salzburg,Bundesliga,"CB, RB",73.0,37.0,49.0,55.0,67.0,67.0
+A. Devine,Alfie Devine,18,64,84,1600000.0,5000.0,Port Vale,League One,"CAM, CM",64.0,59.0,63.0,63.0,52.0,55.0
+Léo Jabá,Leonardo Rodrigues Lima,19,69,84,2300000.0,500.0,PAOK,Super League,"ST, LM",81.0,67.0,55.0,70.0,26.0,57.0
+K. Galanopoulos,Konstantinos Galanopoulos,20,71,84,4100000.0,1000.0,AEK Athens,Super League,"CDM, CM",73.0,50.0,67.0,71.0,67.0,64.0
+M. Cuisance,Michaël Bruno Dominique Cuisance,18,72,84,5000000.0,10000.0,Borussia Mönchengladbach,Bundesliga,CM,72.0,67.0,77.0,75.0,52.0,54.0
+N. Cozza,Nicolas Louis Marcel Cozza,19,68,84,1700000.0,4000.0,Montpellier,Ligue 1,"CB, LWB",76.0,36.0,60.0,63.0,68.0,66.0
+E. Haaland,Erling Braut Haaland,17,67,84,1500000.0,2000.0,Molde,Eliteserien,ST,76.0,64.0,52.0,66.0,32.0,78.0
+R. Brewster,Rhian Joel Brewster,18,62,84,700000.0,8000.0,Liverpool,Premier League,ST,77.0,60.0,50.0,62.0,19.0,53.0
+K. Kozłowski,Kacper Kozłowski,18,68,84,3100000.0,8000.0,Vitesse,Eredivisie,"CAM, CM",73.0,58.0,62.0,75.0,59.0,67.0
+J. Branthwaite,Jarrad Branthwaite,20,68,84,3000000.0,10000.0,PSV,Eredivisie,CB,68.0,31.0,45.0,52.0,68.0,69.0
+L. Stergiou,Leonidas Stergiou,20,67,84,2500000.0,3000.0,St. Gallen,Super League,CB,65.0,32.0,46.0,49.0,69.0,72.0
+M. Vandevoordt,Maarten Vandevoordt,20,70,84,3400000.0,5000.0,Genk,Jupiler Pro League,GK,,,,,,
+K. Diatta,Krépin Diatta,19,71,84,4400000.0,7000.0,Club Brugge,Jupiler Pro League,"RM, LM, ST",91.0,65.0,59.0,75.0,46.0,55.0
+J. Sargent,Joshua Thomas Sargent,18,64,84,950000.0,4000.0,Werder Bremen,Bundesliga,ST,77.0,64.0,52.0,67.0,32.0,61.0
+P. Schuurs,Perr Schuurs,18,70,84,3300000.0,4000.0,Ajax,Eredivisie,CB,67.0,61.0,58.0,61.0,69.0,71.0
+R. Guitane,Rafik Guitane,19,66,84,1400000.0,5000.0,Rennes,Ligue 1,CAM,78.0,54.0,62.0,73.0,30.0,49.0
+K. Rüegg,Kevin Rüegg,19,67,84,1500000.0,3000.0,Zürich,Super League,"RB, CM",76.0,40.0,60.0,63.0,65.0,75.0
+S. Bergwijn,Steven Charles Bergwijn,18,69,84,2000000.0,8000.0,PSV,Eredivisie,"LW, RW",84.0,65.0,61.0,75.0,27.0,58.0
+Karrikaburu,Jon Karrikaburu,18,65,84,1800000.0,900.0,Real Sociedad II,La Liga 2,ST,65.0,65.0,47.0,63.0,27.0,52.0
+Gori,Gregorio Gracia Sánchez,19,64,84,1600000.0,2000.0,Espanyol,La Liga 2,"CM, CAM",74.0,56.0,63.0,67.0,57.0,59.0
+M. Bulat,Marko Bulat,19,69,84,3300000.0,500.0,Dinamo Zagreb,1. HNL,"CM, CDM",68.0,65.0,73.0,71.0,59.0,69.0
+L. Mai,Lars Lukas Mai,18,64,84,850000.0,5000.0,FC Bayern München,Bundesliga,CB,54.0,30.0,40.0,41.0,65.0,70.0
+A. Plizzari,Alessandro Plizzari,19,66,84,1200000.0,3000.0,Livorno,Serie B,GK,,,,,,
+Diogo Queirós,Diogo Lucas Queirós,20,68,84,1800000.0,4000.0,Porto,Liga Portugal,CB,64.0,28.0,40.0,57.0,66.0,63.0
+D. Turnbull,David Turnbull,19,69,84,2200000.0,2000.0,Motherwell,Premiership,"CM, CAM",68.0,64.0,65.0,69.0,53.0,63.0
+R. Gumny,Robert Gumny,21,70,84,3600000.0,4000.0,Lech Poznań,Ekstraklasa,RB,88.0,36.0,60.0,68.0,64.0,67.0
+K. Jóźwiak,Kamil Jóźwiak,21,69,84,2300000.0,4000.0,Lech Poznań,Ekstraklasa,"LM, RM",90.0,57.0,62.0,68.0,41.0,69.0
+C. Gomes,Claudio Gomes,17,66,84,1100000.0,10000.0,Manchester City,Premier League,"CDM, CM",73.0,56.0,61.0,63.0,65.0,63.0
+N. Pérez,Patricio Nehuen Pérez,18,70,84,3300000.0,4000.0,Argentinos Juniors,Liga Profesional,CB,64.0,25.0,40.0,38.0,70.0,62.0
+R. Griffiths,Reo Griffiths,18,61,84,575000.0,5000.0,Olympique Lyonnais,Ligue 1,ST,71.0,61.0,45.0,53.0,25.0,57.0
+A. Schjelderup,Andreas Rædergård Schjelderup,17,65,84,1800000.0,500.0,Nordsjælland,Superliga,"CAM, LW, ST",72.0,58.0,60.0,68.0,35.0,47.0
+F. Fofana,Fodé Fofana,18,64,84,1600000.0,2000.0,PSV,Eredivisie,ST,79.0,64.0,58.0,62.0,22.0,66.0
+A. Virginius,Alan Virginius,19,67,84,2600000.0,6000.0,Lille,Ligue 1,RM,90.0,57.0,58.0,71.0,27.0,40.0
+A. Karabec,Adam Karabec,18,71,84,4400000.0,500.0,Sparta Praha,Fortuna Liga,"CAM, RM, LM",73.0,65.0,69.0,73.0,35.0,54.0
+E. Martel,Eric Martel,20,67,84,2500000.0,6000.0,FC Köln,Bundesliga,"CDM, CB",66.0,46.0,58.0,59.0,67.0,73.0
+R. Gumny,Robert Gumny,20,68,84,1800000.0,3000.0,Lech Poznań,Ekstraklasa,RB,86.0,29.0,59.0,64.0,62.0,63.0
+M. Sylla,Moussa Sylla,18,65,84,1100000.0,8000.0,Monaco,Ligue 1,ST,76.0,63.0,53.0,65.0,22.0,57.0
+C. Durkin,Christopher James Durkin,18,67,84,1400000.0,2000.0,DC United,Major League Soccer,CDM,62.0,45.0,60.0,59.0,65.0,68.0
+E. Nketiah,Edward Nketiah,19,64,84,975000.0,10000.0,Arsenal,Premier League,ST,84.0,62.0,47.0,66.0,20.0,54.0
+D. Szoboszlai,Dominik Szoboszlai,17,64,84,900000.0,4000.0,Salzburg,Bundesliga,"CAM, CM",79.0,66.0,62.0,66.0,31.0,55.0
+C. Stengs,Calvin Stengs,19,69,84,2300000.0,5000.0,AZ Alkmaar,Eredivisie,RW,78.0,51.0,70.0,75.0,33.0,53.0
+V. Barco,Valentín Barco,18,71,84,4200000.0,3000.0,Boca Juniors,Liga Profesional,"LB, LM, LWB",76.0,44.0,70.0,74.0,65.0,57.0
+A. Armstrong,Adam Armstrong,19,68,84,1800000.0,5000.0,Barnsley,League One,ST,89.0,68.0,54.0,68.0,26.0,66.0
+N. Elvedi,Nico Elvedi,19,72,84,3000000.0,10000.0,Borussia Mönchengladbach,Bundesliga,"CB, RB, CDM",69.0,34.0,55.0,59.0,73.0,71.0
+E. Mor,Emre Mor,18,64,84,850000.0,9000.0,Borussia Dortmund,Bundesliga,"ST, RW",87.0,63.0,47.0,81.0,28.0,53.0
+Palhinha,João Maria Lobo Alves Palhinha Gonçalves,20,74,84,4800000.0,6000.0,Belenenses,Liga Portugal,"CDM, CM",60.0,51.0,61.0,63.0,74.0,82.0
+Aitor Buñuel,Aitor Buñuel Redrado,18,69,84,1800000.0,7000.0,Osasuna,La Liga,"RWB, RB",78.0,37.0,56.0,65.0,65.0,61.0
+Rubén Blanco,Rubén Blanco Veiga,20,73,84,4400000.0,10000.0,Celta de Vigo,La Liga,GK,,,,,,
+M. Moreno,Marlos Moreno Durán,19,72,84,3500000.0,10000.0,Deportivo de La Coruña,La Liga 2,"LW, RW, ST",87.0,64.0,64.0,76.0,24.0,54.0
+J. Barrera,Jarlan Junior Barrera Escalona,20,71,84,3200000.0,3000.0,Junior,Liga BetPlay,CAM,75.0,59.0,70.0,75.0,43.0,55.0
+J. Sargent,Joshua Thomas Sargent,19,67,84,1600000.0,6000.0,Werder Bremen,Bundesliga,"ST, RW",76.0,65.0,52.0,68.0,35.0,62.0
+F. Amuzu,Francis Apelete Amuzu,19,70,84,3800000.0,7000.0,Anderlecht,Jupiler Pro League,LW,87.0,63.0,63.0,76.0,32.0,56.0
+S. Shoretire,Shola Maxwell Shoretire,17,62,84,1200000.0,2000.0,Manchester United,Premier League,"RM, LM",72.0,56.0,56.0,66.0,37.0,55.0
+M. Rogers,Morgan Elliot Rogers,18,66,84,2200000.0,4000.0,AFC Bournemouth,Premier League,LW,80.0,65.0,60.0,65.0,39.0,64.0
+A. Hackford,Antwoine Hackford,17,59,84,700000.0,950.0,Sheffield United,Premier League,ST,86.0,59.0,38.0,60.0,18.0,44.0
+J. Braaf,Jayden Jezairo Braaf,18,64,84,1600000.0,9000.0,Manchester City,Premier League,"LW, RW",83.0,60.0,57.0,66.0,40.0,64.0
+F. Orozco,Franco Orozco,19,65,84,1800000.0,3000.0,Lanús,Liga Profesional,"LW, RW",79.0,62.0,57.0,70.0,30.0,43.0
+C. Chukwuemeka,Carney Chibueze Chukwuemeka,17,63,84,1500000.0,1000.0,Aston Villa,Premier League,CAM,62.0,53.0,62.0,67.0,44.0,57.0
+F. Colidio,Facundo Colidio,18,63,84,850000.0,6000.0,Inter,Serie A,ST,61.0,64.0,48.0,64.0,25.0,43.0
+A. Dabo,Abdoulaye Dabo,18,63,84,825000.0,2000.0,Nantes,Ligue 1,"LM, CM",66.0,58.0,62.0,65.0,61.0,53.0
+H. Cochrane,Harry Cochrane,18,64,84,925000.0,750.0,Hearts,Premiership,"CM, CDM, CAM",67.0,55.0,62.0,69.0,53.0,51.0
+W. Geubbels,Willem Geubbels,17,64,84,900000.0,2000.0,Monaco,Ligue 1,ST,84.0,62.0,53.0,64.0,26.0,53.0
+A. Plizzari,Alessandro Plizzari,18,66,84,1100000.0,5000.0,Milan,Serie A,GK,,,,,,
+C. Alcaraz,Carlos Jonas Alcaraz,19,71,84,4400000.0,7000.0,Racing Club,Liga Profesional,"CAM, CM, LM",84.0,67.0,66.0,77.0,46.0,66.0
+M. Kjaergaard,Maurits Kjaergaard,19,68,84,3100000.0,6000.0,Salzburg,Bundesliga,"CAM, CM",74.0,66.0,67.0,68.0,58.0,71.0
+K. Gordon,Kaide Gordon,17,62,84,1200000.0,3000.0,Liverpool,Premier League,"RW, LW",72.0,57.0,54.0,65.0,25.0,46.0
+J. Bolívar,Jovanny David Bolívar Alvarado,20,67,84,2700000.0,500.0,Deportivo La Guaira,Primera Division,ST,61.0,71.0,56.0,65.0,28.0,62.0
+D. Maresic,Dario Maresic,18,72,84,4500000.0,7000.0,Sturm Graz,Bundesliga,CB,59.0,31.0,53.0,51.0,74.0,72.0
+M. Maolida,Myziane Maolida,19,69,84,2300000.0,8000.0,Nice,Ligue 1,"ST, LW",84.0,65.0,57.0,75.0,21.0,55.0
+Dodô,Domilson Cordeiro dos Santos,19,71,84,3900000.0,3000.0,Vitória SC,Liga Portugal,RB,90.0,55.0,59.0,73.0,64.0,66.0
+C. Clark,Caden Clark,19,67,84,2600000.0,8000.0,New York RB,Major League Soccer,"CAM, CM, LW",79.0,61.0,65.0,69.0,46.0,60.0
+J. Clarke,Jack Clarke,18,67,84,1600000.0,8000.0,Leeds United,Championship,"RM, LM",78.0,60.0,61.0,72.0,25.0,55.0
+S. Ricci,Samuele Ricci,19,67,84,2600000.0,8000.0,Empoli,Serie A,"CM, CDM",67.0,44.0,67.0,68.0,62.0,64.0
+L. Barry,Louie Mark Barry,18,63,84,1500000.0,5000.0,Ipswich Town,Championship,"ST, LW",78.0,63.0,49.0,64.0,22.0,53.0
+H. Mejbri,Hannibal Mejbri,18,62,84,1300000.0,6000.0,Manchester United,Premier League,"CAM, CM",69.0,51.0,61.0,64.0,52.0,58.0
+W. Faghir,Wahidullah Faghir,17,64,84,1600000.0,1000.0,VfB Stuttgart,Bundesliga,ST,69.0,62.0,48.0,66.0,22.0,66.0
+J. Vagnoman,Josha Mamadou Karaboue Vagnoman,18,65,84,1000000.0,1000.0,Hamburger SV,2. Bundesliga,"LB, LM, RB",84.0,39.0,54.0,66.0,59.0,71.0
+D. Caicedo,Deiber Jair Caicedo Mideros,19,64,84,975000.0,500.0,Deportivo Cali,Liga BetPlay,RM,79.0,45.0,56.0,73.0,31.0,48.0
+N. Okafor,Noah Arinzechukwu Okafor,19,68,84,1900000.0,6000.0,Basel,Super League,"RM, LM",80.0,60.0,60.0,73.0,32.0,67.0
+S. van den Berg,Sepp van den Berg,17,66,84,1200000.0,850.0,Liverpool,Premier League,CB,68.0,30.0,55.0,63.0,65.0,66.0
+L. Ferguson,Lewis Ferguson,19,69,84,2200000.0,3000.0,Aberdeen,Premiership,"CM, CDM, CAM",71.0,63.0,68.0,69.0,58.0,73.0
+O. Solet,Oumar Mickael Solet Bomawoko,19,66,84,1300000.0,8000.0,Olympique Lyonnais,Ligue 1,CB,69.0,35.0,53.0,60.0,62.0,71.0
+G. Tsitaishvili,Giorgi Tsitaishvili,18,66,84,1300000.0,500.0,Dynamo Kyiv,Premier League,"RM, LM",80.0,55.0,59.0,74.0,33.0,39.0
+S. Diop,Sofiane Diop,19,67,84,1600000.0,7000.0,Monaco,Ligue 1,"LM, CM, CAM",75.0,58.0,64.0,71.0,31.0,42.0
+Trincão,Francisco António Machado Mota Castro Trincão,19,71,84,4400000.0,6000.0,Sporting Braga,Liga Portugal,"RW, LW",78.0,66.0,66.0,74.0,37.0,63.0
+Sancet,Oihan Sancet Tirapu,19,69,84,2200000.0,6000.0,Athletic Club,La Liga,"CM, CAM",66.0,60.0,65.0,74.0,51.0,48.0
+J. Bogle,Jayden Bogle,18,69,84,2000000.0,4000.0,Derby County,League One,RB,80.0,43.0,62.0,72.0,66.0,61.0
+D. Jastrzembski,Dennis Jastrzembski,19,66,84,1400000.0,5000.0,Hertha BSC,2. Bundesliga,"LM, CAM",80.0,61.0,60.0,69.0,35.0,58.0
+A. Tchouaméni,Aurélien Tchouaméni,19,70,84,3800000.0,10000.0,Bordeaux,Ligue 2,CM,72.0,53.0,63.0,71.0,69.0,73.0
+G. Bazunu,Gavin Okeroghene Bazunu,17,59,84,275000.0,500.0,Manchester City,Premier League,GK,,,,,,
+L. Openda,Ikoma Loïs Openda,19,70,84,3800000.0,8000.0,Club Brugge,Jupiler Pro League,"ST, LW",93.0,65.0,56.0,69.0,25.0,64.0
+E. Loiodice,Enzo Loiodice,18,64,84,925000.0,1000.0,Dijon,Ligue 2,"CM, CDM",56.0,45.0,59.0,70.0,56.0,47.0
+K. Dowell,Kieran Dowell,19,68,84,1900000.0,10000.0,Nottingham Forest,Premier League,"CAM, RW, LW",69.0,63.0,66.0,72.0,46.0,55.0
+F. Del Sole,Ferdinando Del Sole,19,65,84,1200000.0,2000.0,Pescara,Serie B,RW,69.0,61.0,59.0,70.0,32.0,36.0
+R. Henry,Rico Henry,19,68,84,1700000.0,10000.0,Brentford,Premier League,"LB, LWB, LM",91.0,42.0,58.0,70.0,61.0,69.0
+A. Nagalo,Adamo Nagalo,20,71,84,4200000.0,6000.0,Nordsjælland,Superliga,CB,70.0,29.0,55.0,62.0,70.0,77.0
+N. Mbamba,Noah Mbamba,18,64,84,1500000.0,3000.0,Bayer 04 Leverkusen,Bundesliga,"CDM, CB",72.0,34.0,54.0,65.0,61.0,70.0
+M. Godts,Mika Marcel Godts,18,66,84,2200000.0,2000.0,Ajax,Eredivisie,"LW, RW",76.0,57.0,61.0,73.0,39.0,53.0
+J. Sforza,Juan Sebastián Sforza,21,70,84,3700000.0,6000.0,Newell's Old Boys,Liga Profesional,"CDM, CM",71.0,60.0,69.0,69.0,63.0,70.0
+M. Johnston,Max Johnston,19,66,84,2100000.0,2000.0,Sturm Graz,Bundesliga,"RWB, RB",81.0,36.0,59.0,60.0,60.0,65.0
+S. Raebiger,Sidney Raebiger,17,62,84,1200000.0,500.0,SpVgg Greuther Fürth,2. Bundesliga,"CM, CAM",68.0,52.0,65.0,66.0,55.0,47.0
+Q. Merlin,Quentin Merlin,20,70,84,3700000.0,9000.0,Nantes,Ligue 1,"LB, LWB, LM",70.0,59.0,69.0,75.0,64.0,58.0
+N. Mbamba,Noah Mbamba,17,64,84,1500000.0,500.0,Club Brugge,Jupiler Pro League,"CB, CDM",72.0,32.0,51.0,63.0,61.0,71.0
+O. Kökçü,Orkun Kökçü,18,71,84,4200000.0,3000.0,Feyenoord,Eredivisie,"CAM, CM",73.0,65.0,70.0,71.0,52.0,60.0
+A. Idah,Adam Uche Idah,18,63,84,850000.0,4000.0,Norwich City,Championship,ST,75.0,64.0,38.0,58.0,21.0,62.0
+Miguel Luís,Miguel Mariz Luís,20,70,84,3900000.0,6000.0,Sporting CP,Liga Portugal,CM,67.0,61.0,69.0,73.0,61.0,67.0
+B. Gilmour,Billy Gilmour,18,62,84,675000.0,5000.0,Chelsea,Premier League,"CM, CAM",59.0,50.0,65.0,65.0,45.0,42.0
+J. Branthwaite,Jarrad Branthwaite,19,66,84,2100000.0,9000.0,Everton,Premier League,CB,63.0,29.0,45.0,47.0,66.0,64.0
+A. Karabec,Adam Karabec,17,71,84,4300000.0,500.0,Sparta Praha,Fortuna Liga,"CAM, CM, LM",72.0,63.0,68.0,74.0,35.0,54.0
+E. Martel,Eric Martel,19,66,84,2100000.0,8000.0,Austria Wien,Bundesliga,CDM,66.0,46.0,58.0,59.0,66.0,71.0
+Morato,Felipe Rodrigues da Silva,20,68,84,3000000.0,4000.0,Benfica,Liga Portugal,CB,63.0,35.0,51.0,59.0,66.0,78.0
+Joelson Fernandes,Joelson Augusto Mendes Mango Fernandes,18,68,84,3100000.0,2000.0,Basel,Super League,"RM, LM",89.0,60.0,58.0,76.0,24.0,42.0
+D. Ayala,Maximiliano David Ayala,18,68,84,2900000.0,1000.0,Estudiantes,Liga Profesional,CDM,72.0,45.0,62.0,67.0,63.0,58.0
+M. Tel,Mathys Tel,17,64,84,1600000.0,2000.0,FC Bayern München,Bundesliga,"ST, LM, CF",77.0,62.0,59.0,70.0,26.0,58.0
+R. Harper,Rekeem Jordan Harper,17,61,84,550000.0,2000.0,Blackburn Rovers,Championship,CM,59.0,48.0,59.0,59.0,53.0,49.0
+K. Jóźwiak,Kamil Jóźwiak,20,66,84,1400000.0,3000.0,Lech Poznań,Ekstraklasa,"LM, RM",89.0,54.0,57.0,65.0,39.0,68.0
+T. Adams,Tyler Shaan Adams,19,72,84,4800000.0,3000.0,New York RB,Major League Soccer,"CDM, RWB",82.0,45.0,61.0,71.0,70.0,74.0
+B. Mansilla,Braian Ezequiel Mansilla,21,69,84,2300000.0,8000.0,Racing Club,Liga Profesional,"LM, ST",91.0,66.0,58.0,71.0,26.0,63.0
+É. Michut,Édouard Michut,19,66,84,2200000.0,10000.0,Sunderland,Championship,CM,62.0,53.0,65.0,71.0,57.0,51.0
+D. Rigo,Dante Rigo,18,66,84,1300000.0,3000.0,PSV,Eredivisie,CM,64.0,56.0,72.0,70.0,41.0,47.0
+M. Kean,Moise Bioty Kean,17,64,84,900000.0,5000.0,Hellas Verona,Serie A,ST,68.0,65.0,47.0,64.0,21.0,57.0
+F. Romagna,Filippo Romagna,21,70,84,3500000.0,10000.0,Cagliari,Serie A,CB,67.0,32.0,50.0,57.0,71.0,64.0
+J. Boga,Jérémie Boga,19,73,84,4500000.0,10000.0,Granada,La Liga,"CAM, ST, RW",78.0,73.0,68.0,75.0,41.0,64.0
+Gonçalo Guedes,Gonçalo Manuel Ganchinho Guedes,19,74,84,4900000.0,8000.0,Benfica,Liga Portugal,"RM, LM, ST",83.0,71.0,70.0,76.0,35.0,61.0
+T. Wellenreuther,Timon Janis Wellenreuther,20,72,84,3400000.0,10000.0,Schalke 04,2. Bundesliga,GK,,,,,,
+San Emeterio,Federico San Emeterio Díaz,19,69,84,1900000.0,3000.0,Sevilla Atlético,La Liga 2,"CDM, CM",69.0,52.0,63.0,63.0,64.0,73.0
+A. Sylla,Loubadhe Abakar Sylla,20,70,84,3600000.0,9000.0,Strasbourg,Ligue 1,CB,70.0,30.0,54.0,69.0,67.0,77.0
+Rodrigo Ribeiro,Rodrigo Duarte Ribeiro,18,68,84,3100000.0,2000.0,Sporting CP,Liga Portugal,ST,74.0,66.0,58.0,70.0,22.0,60.0
+D. Gore,Daniel Gore,18,61,84,1000000.0,5000.0,Manchester United,Premier League,"CM, CAM",72.0,50.0,60.0,67.0,48.0,54.0
+B. Doak,Ben Doak,17,62,84,1200000.0,3000.0,Liverpool,Premier League,RW,81.0,52.0,51.0,68.0,27.0,47.0
+J. Eggestein,Johannes Eggestein,19,66,84,1400000.0,5000.0,Werder Bremen,Bundesliga,ST,68.0,66.0,57.0,64.0,30.0,49.0
+M. Cuisance,Michaël Bruno Dominique Cuisance,17,61,84,550000.0,4000.0,Borussia Mönchengladbach,Bundesliga,CM,71.0,60.0,68.0,68.0,44.0,45.0
+B. Riveros,Blás Miguel Riveros Galeano,19,68,84,1700000.0,10000.0,Basel,Super League,LB,84.0,29.0,54.0,73.0,57.0,71.0
+A. Dozzell,Andre Dozzell,18,64,84,925000.0,4000.0,Ipswich Town,Championship,"CM, CAM",76.0,60.0,65.0,69.0,38.0,51.0
+A. Bastoni,Alessandro Bastoni,18,64,84,850000.0,4000.0,Atalanta,Serie A,CB,58.0,33.0,40.0,41.0,65.0,64.0
+L. Itter,Gian-Luca Itter,18,64,84,825000.0,7000.0,VfL Wolfsburg,Bundesliga,LB,68.0,41.0,61.0,63.0,62.0,60.0
+A. Barkok,Aymen Barkok,19,68,84,1900000.0,9000.0,Eintracht Frankfurt,Bundesliga,"RM, CAM",70.0,61.0,60.0,77.0,53.0,63.0
+M. El Arouch,Mohamed El Arouch,18,66,84,2200000.0,5000.0,Olympique Lyonnais,Ligue 1,CAM,75.0,60.0,64.0,73.0,51.0,54.0
+J. Mina,Juan José Mina González,17,64,84,1500000.0,500.0,Deportivo Cali,Liga BetPlay,RB,76.0,40.0,52.0,55.0,59.0,65.0
+Rodrigo Ribeiro,Rodrigo Duarte Ribeiro,17,66,84,2100000.0,850.0,Sporting CP,Liga Portugal,ST,73.0,65.0,49.0,66.0,22.0,60.0
+J. Panzo,Jonathan Panzo,18,65,84,1000000.0,2000.0,Monaco,Ligue 1,CB,58.0,38.0,50.0,53.0,64.0,63.0
+Nuno Tavares,Nuno Albertino Varela Tavares,19,72,84,4900000.0,5000.0,Benfica,Liga Portugal,"LB, RB",87.0,51.0,58.0,72.0,67.0,74.0
+E. Simms,Ellis Simms,18,64,84,950000.0,7000.0,Everton,Premier League,ST,77.0,64.0,50.0,59.0,25.0,58.0
+N. Armini,Nicolò Armini,18,66,84,1200000.0,3000.0,Lazio,Serie A,CB,64.0,38.0,49.0,53.0,67.0,63.0
+K. Taylor,Kenneth Ina Dorothea Taylor,18,64,84,1600000.0,1000.0,Ajax,Eredivisie,CM,65.0,60.0,70.0,66.0,56.0,56.0
+C. Olivera,Cristian Gonzalo Olivera Ibarra,18,66,84,2200000.0,1000.0,Almería,La Liga,"RM, LM",78.0,59.0,63.0,70.0,36.0,48.0
+A. Riccardi,Alessio Riccardi,18,63,84,825000.0,3000.0,Roma,Serie A,"CM, CAM",63.0,55.0,59.0,63.0,51.0,53.0
+C. Riad,Chadi Riad Dnanou,17,59,84,675000.0,750.0,Sabadell,La Liga 2,CB,58.0,31.0,45.0,41.0,60.0,57.0
+D. Seimen,Dennis Seimen,17,61,84,925000.0,500.0,VfB Stuttgart,Bundesliga,GK,,,,,,
+L. Harris,Luke Harris,18,61,84,1000000.0,4000.0,Fulham,Premier League,CAM,58.0,60.0,57.0,67.0,37.0,44.0
+L. Ulrich,Laurin Ulrich,18,61,84,1000000.0,1000.0,VfB Stuttgart,Bundesliga,"CM, CAM, LM",74.0,59.0,61.0,68.0,45.0,61.0
+A. Gray,Archie Gray,17,65,84,1800000.0,1000.0,Leeds United,Championship,"CM, CDM, CAM",70.0,60.0,65.0,69.0,62.0,62.0
+E. Ünal,Enes Ünal,18,69,84,2000000.0,4000.0,Genk,Jupiler Pro League,ST,78.0,69.0,59.0,70.0,31.0,62.0
+P. Galdames,Pablo Ignacio Galdames Millán,19,71,84,2900000.0,3000.0,Unión Española,Primera Division,"CM, CDM",73.0,60.0,68.0,70.0,72.0,65.0
+Rafa Soares,Luís Rafael Soares Alves,21,71,84,2800000.0,6000.0,Rio Ave,Liga Portugal,LB,78.0,61.0,68.0,72.0,66.0,66.0
+A. Werner,Axel Wilfredo Werner,20,69,84,2000000.0,8000.0,Boca Juniors,Liga Profesional,GK,,,,,,
+Villalibre,Asier Villalibre Molina,17,63,84,725000.0,2000.0,Athletic Club de Bilbao B,La Liga 2,"ST, CF",63.0,65.0,43.0,56.0,25.0,67.0
+Tiago Djaló,Tiago Emanuel Embaló Djaló,19,66,84,1300000.0,5000.0,Lille,Ligue 1,CB,64.0,40.0,56.0,60.0,65.0,70.0
+Romário Baró,Romário Manuel Silva Baró,19,70,84,3800000.0,4000.0,Porto,Liga Portugal,"CAM, RM",75.0,65.0,69.0,70.0,43.0,54.0
+M. Edwards,Marcus Edwards,17,58,84,275000.0,6000.0,Tottenham Hotspur,Premier League,"CAM, RW",68.0,48.0,56.0,64.0,28.0,39.0
+K. Kanatsızkuş,Kubilay Kanatsızkuş,20,70,84,3900000.0,10000.0,Bursaspor,Super Lig,ST,66.0,67.0,56.0,67.0,21.0,70.0
+J. Harrison,Jack Harrison,20,70,84,3900000.0,6000.0,New York City,Major League Soccer,RW,83.0,64.0,63.0,72.0,37.0,65.0
+J. Hoogma,Justin Hoogma,19,71,84,4000000.0,10000.0,TSG Hoffenheim,Bundesliga,CB,67.0,29.0,51.0,56.0,71.0,71.0
+Ontiveros,Javier Ontiveros Parra,19,71,84,4400000.0,10000.0,Málaga,La Liga 2,"RM, LM",72.0,68.0,70.0,75.0,25.0,40.0
+A. Ömür,Abdülkadir Ömür,17,66,84,1200000.0,4000.0,Trabzonspor,Super Lig,"CM, CAM",84.0,62.0,71.0,73.0,40.0,46.0
+Miguel Silva,João Miguel Macedo da Silva,21,73,84,4400000.0,6000.0,Vitória SC,Liga Portugal,GK,,,,,,
+A. Green,Andre Jay Green,18,68,84,1800000.0,10000.0,Aston Villa,Premier League,"LM, LW",82.0,60.0,63.0,70.0,36.0,56.0
+F. Passlack,Felix Passlack,19,69,84,2000000.0,10000.0,TSG Hoffenheim,Bundesliga,"RB, RM, LB",74.0,59.0,66.0,73.0,63.0,77.0
+Leandrinho,Leandro Henrique do Nascimento,18,65,84,1100000.0,9000.0,Napoli,Serie A,CAM,78.0,59.0,47.0,75.0,20.0,45.0
+J. Thielmann,Jan Thielmann,18,67,84,2600000.0,3000.0,FC Köln,Bundesliga,"RM, CF",73.0,66.0,61.0,69.0,25.0,58.0
+J. Chotard,Joris Chotard,18,69,84,3200000.0,5000.0,Montpellier,Ligue 1,CM,69.0,53.0,70.0,72.0,61.0,63.0
+A. Appiah,Arvin Appiah,19,64,84,1600000.0,1000.0,Almería,La Liga,"LM, RM",93.0,59.0,51.0,70.0,28.0,40.0
+C. Jones,Curtis Jones,19,64,84,1600000.0,9000.0,Liverpool,Premier League,"CM, CAM, LM",66.0,62.0,63.0,70.0,48.0,60.0
+T. Lamptey,Tariq Lamptey,19,66,84,2100000.0,7000.0,Brighton & Hove Albion,Premier League,"RB, RM",82.0,33.0,58.0,66.0,60.0,51.0
+L. Ferguson,Lewis Ferguson,20,69,84,3200000.0,3000.0,Aberdeen,Premiership,"CDM, CM, CAM",71.0,63.0,69.0,70.0,63.0,77.0
+F. Vera,Fausto Mariano Vera,20,67,84,2700000.0,4000.0,Argentinos Juniors,Liga Profesional,"CM, CDM",63.0,54.0,68.0,68.0,56.0,63.0
+A. Gomes,Adilson Angel Abreu de Almeida Gomes,19,67,84,2600000.0,6000.0,Boavista,Liga Portugal,"CAM, LM",72.0,62.0,66.0,71.0,39.0,43.0
+S. Mara,Sékou Mara,17,63,84,1500000.0,1000.0,Bordeaux,Ligue 2,ST,71.0,63.0,47.0,60.0,25.0,60.0
+J. van Duiven,Jason van Duiven,18,66,84,2200000.0,2000.0,PSV,Eredivisie,ST,68.0,67.0,50.0,64.0,30.0,63.0
+M. Maolida,Myziane Maolida,18,66,84,1300000.0,10000.0,Olympique Lyonnais,Ligue 1,ST,77.0,64.0,50.0,72.0,20.0,55.0
+David Carmona,David Carmona Sierra,20,70,84,3500000.0,4000.0,Sevilla Atlético,La Liga 2,"RB, RM",78.0,43.0,58.0,62.0,63.0,72.0
+L. Oyen,Luca Oyen,20,69,84,3400000.0,6000.0,Genk,Jupiler Pro League,"LM, CAM",78.0,60.0,65.0,73.0,39.0,49.0
+A. Fontanarosa,Alessandro Fontanarosa,19,67,84,2500000.0,8000.0,Inter,Serie A,"CB, LB",75.0,58.0,61.0,64.0,67.0,63.0
+D. Doué,Désiré Doué,17,66,84,2100000.0,2000.0,Rennes,Ligue 1,CAM,78.0,59.0,60.0,72.0,33.0,50.0
+L. Harris,Luke Harris,17,61,84,1000000.0,1000.0,Fulham,Premier League,CAM,57.0,60.0,57.0,66.0,37.0,45.0
+L. Bergvall,Lucas Bergvall,17,61,84,1000000.0,500.0,Djurgården,Allsvenskan,CM,65.0,50.0,60.0,67.0,51.0,57.0
+M. Prati,Matteo Prati,19,70,84,3600000.0,7000.0,Cagliari,Serie A,"CDM, CM",65.0,60.0,70.0,68.0,66.0,67.0
+B. Tahirović,Benjamin Tahirović,20,70,84,3600000.0,6000.0,Ajax,Eredivisie,CDM,55.0,43.0,65.0,69.0,65.0,69.0
+L. Pirola,Lorenzo Pirola,18,63,84,1500000.0,4000.0,Inter,Serie A,CB,62.0,41.0,47.0,51.0,63.0,66.0
+J. St. Juste,Jeremiah St. Juste,18,70,84,2300000.0,6000.0,SC Heerenveen,Eredivisie,CB,77.0,42.0,51.0,62.0,72.0,66.0
+R. Gudiño,Raúl Manolo Gudiño Vega,19,68,84,1600000.0,10000.0,Porto,Liga Portugal,GK,,,,,,
+Fabián Ruiz,Fabián Ruiz Peña,19,68,84,1800000.0,8000.0,Real Betis,La Liga,CAM,56.0,64.0,69.0,68.0,55.0,42.0
+Y. Minteh,Yankuba Minteh,18,65,84,1800000.0,9000.0,Feyenoord,Eredivisie,"RW, LW",88.0,54.0,54.0,70.0,23.0,44.0
+A. Armstrong,Adam Armstrong,18,65,84,1000000.0,2000.0,Coventry City,Championship,"CF, ST",87.0,66.0,55.0,65.0,26.0,58.0
+N. Leiva,Matías Nahuel Leiva Esquivel,18,68,84,1700000.0,3000.0,Villarreal,La Liga,"CAM, LM, RM",71.0,62.0,65.0,73.0,25.0,46.0
+A. Nouri,Abdelhak Nouri,18,66,84,1200000.0,6000.0,Ajax,Eredivisie,CAM,67.0,49.0,70.0,76.0,24.0,35.0
+M. Palacios,Matías Damián Palacios,18,65,84,1800000.0,2000.0,San Lorenzo,Liga Profesional,"CM, CAM",69.0,59.0,69.0,70.0,46.0,48.0
+Dálcio,Euciodálcio Gomes,19,69,84,2100000.0,7000.0,Belenenses,Liga Portugal,"RM, LM",83.0,66.0,62.0,73.0,31.0,63.0
+N. Süle,Niklas Süle,18,71,83,975000.0,6000.0,TSG Hoffenheim,Bundesliga,CB,58.0,39.0,41.0,42.0,73.0,77.0
+Yeray,Yeray Álvarez López,20,70,83,2300000.0,2000.0,Athletic Club de Bilbao B,La Liga 2,"CB, RB",72.0,48.0,56.0,55.0,69.0,75.0
+Ricardo Horta,Ricardo Jorge da Luz Horta,21,74,83,5000000.0,10000.0,Sporting Braga,Liga Portugal,"RM, LM",77.0,71.0,69.0,81.0,29.0,50.0
+M. Miazga,Matthew Miazga,20,73,83,4100000.0,9000.0,Vitesse,Eredivisie,CB,66.0,26.0,46.0,58.0,73.0,74.0
+Saúl,Saúl García Cabrero,21,71,83,2600000.0,7000.0,Girona,La Liga,"LB, LWB",70.0,45.0,65.0,61.0,68.0,67.0
+J. Mauri,José Agustín Mauri,20,73,83,4600000.0,10000.0,Empoli,Serie A,"CM, CDM",74.0,60.0,74.0,78.0,56.0,64.0
+J. Maddison,James Maddison,19,68,83,1800000.0,4000.0,Aberdeen,Premiership,CAM,76.0,65.0,65.0,72.0,25.0,44.0
+E. Ponce,Ezequiel Ponce Martínez,19,72,83,3400000.0,10000.0,Granada,La Liga,ST,78.0,72.0,54.0,72.0,28.0,54.0
+D. Sánchez,Davinson Sánchez Mina,20,71,83,2600000.0,8000.0,Ajax,Eredivisie,CB,72.0,33.0,50.0,49.0,69.0,78.0
+D. van de Beek,Donny van de Beek,19,70,83,2300000.0,7000.0,Ajax,Eredivisie,"CM, CAM",58.0,65.0,68.0,70.0,54.0,68.0
+Jorge Meré,Jorge Meré Pérez,18,71,83,2200000.0,6000.0,Sporting Gijón,La Liga 2,CB,67.0,30.0,47.0,52.0,74.0,68.0
+A. Leya Iseka,Aaron Leya Iseka,17,65,83,1000000.0,5000.0,Anderlecht,Jupiler Pro League,ST,79.0,66.0,50.0,66.0,21.0,63.0
+J. Gauto,Juan Carlos Gauto,19,69,83,3300000.0,4000.0,Basel,Super League,"LM, RM, ST",87.0,61.0,63.0,69.0,29.0,61.0
+G. Rukavina,Gabrijel Rukavina,19,65,83,1800000.0,500.0,Dinamo Zagreb,1. HNL,"LW, LM, RW",87.0,55.0,51.0,72.0,24.0,55.0
+Mateus Fernandes,Mateus Gonçalo Espanha Fernandes,18,68,83,2800000.0,2000.0,Estoril,Liga Portugal,"CM, CAM",75.0,57.0,67.0,74.0,52.0,62.0
+S. Borza,Andrei Sebastian Borza,17,67,83,2400000.0,500.0,Rapid Bucuresti,Liga 1,"LB, LM",75.0,61.0,65.0,67.0,60.0,61.0
+A. Mazilu,Adrian Mazilu,17,66,83,2100000.0,850.0,SSC Farul,Liga 1,"RW, ST, RM",79.0,64.0,57.0,68.0,35.0,55.0
+M. Shaparenko,Mykola Shaparenko,21,72,83,5000000.0,550.0,Dynamo Kyiv,Premier League,"CM, CAM",63.0,63.0,69.0,72.0,64.0,56.0
+Fernando,Fernando Dos Santos Pedro,21,71,83,4600000.0,500.0,Shakhtar Donetsk,Premier League,"LM, ST",86.0,61.0,60.0,77.0,30.0,43.0
+A. Yusuf,Alhassan Yusuf Abdullahi,19,69,83,3100000.0,1000.0,IFK Göteborg,Allsvenskan,"CDM, CM",81.0,44.0,63.0,68.0,64.0,72.0
+B. Arce,Billy Vladimir Arce Mina,21,71,83,4600000.0,500.0,LDU Quito,Liga Pro,LM,72.0,58.0,67.0,68.0,34.0,58.0
+C. Früchtl,Christian Früchtl,20,66,83,2000000.0,1000.0,Nürnberg,2. Bundesliga,GK,,,,,,
+Abel Ruiz,Abel Ruiz Ortega,20,69,83,3400000.0,6000.0,Sporting Braga,Liga Portugal,"ST, LW",71.0,69.0,54.0,70.0,37.0,65.0
+N. Mantl,Nico Mantl,20,69,83,2900000.0,2000.0,Unterhaching,3. Liga,GK,,,,,,
+David Carmo,David Mota Veiga Teixeira Carmo,20,71,83,4200000.0,6000.0,Sporting Braga,Liga Portugal,CB,33.0,28.0,42.0,41.0,72.0,76.0
+L. Chevalier,Lucas Chevalier,18,61,83,950000.0,500.0,Lille,Ligue 1,GK,,,,,,
+E. Laird,Ethan Laird,18,66,83,2100000.0,7000.0,Manchester United,Premier League,RB,77.0,55.0,58.0,67.0,62.0,69.0
+Hugo Guillamón,Hugo Guillamón Sammartín,20,69,83,3200000.0,10000.0,Valencia,La Liga,"CB, CDM",61.0,35.0,61.0,58.0,70.0,65.0
+H. Massengo,Han-Noah Massengo,18,66,83,2200000.0,4000.0,Bristol City,Championship,"CM, CDM",69.0,47.0,63.0,69.0,65.0,62.0
+Bryan Gil,Bryan Gil Salvatierra,19,65,83,1800000.0,4000.0,Sevilla,La Liga,"LW, LM",68.0,62.0,59.0,71.0,26.0,35.0
+A. Bernabei,Alexandro Ezequiel Bernabei,19,70,83,3600000.0,5000.0,Lanús,Liga Profesional,"LB, LW, LM",91.0,59.0,60.0,74.0,61.0,67.0
+R. Bellanova,Raoul Bellanova,20,68,83,2800000.0,8000.0,Atalanta,Serie A,RB,72.0,31.0,53.0,61.0,65.0,65.0
+Alberto Soro,Alberto Soro Álvarez,21,70,83,3900000.0,10000.0,Granada,La Liga,RM,83.0,63.0,67.0,69.0,44.0,61.0
+C. Cásseres Jr,Cristian Sleiker Cásseres Yepes,20,68,83,2800000.0,2000.0,New York RB,Major League Soccer,"CDM, CM",75.0,50.0,65.0,71.0,64.0,63.0
+J. Beyer,Louis Jordan Beyer,20,69,83,3200000.0,10000.0,Borussia Mönchengladbach,Bundesliga,"RB, CB",73.0,34.0,55.0,62.0,69.0,68.0
+E. Cerrillo,Edwin Cerrillo,18,64,83,875000.0,550.0,Dallas,Major League Soccer,"CDM, CM",67.0,43.0,58.0,55.0,59.0,68.0
+R. Quirynen,Robbe Quirynen,17,62,83,625000.0,500.0,Antwerp,Jupiler Pro League,"RB, LB",76.0,46.0,62.0,67.0,55.0,44.0
+M. Taabouni,Mohamed Taabouni,18,64,83,1500000.0,900.0,AZ Alkmaar,Eredivisie,"CAM, LW",75.0,55.0,60.0,70.0,42.0,50.0
+K. Sardella,Killian Sardella,18,66,83,2100000.0,2000.0,Anderlecht,Jupiler Pro League,"RB, LB",74.0,37.0,65.0,73.0,59.0,56.0
+Y. Musah,Yunus Dimoara Musah,17,64,83,1500000.0,900.0,Valencia,La Liga,"RM, CM",69.0,63.0,60.0,62.0,57.0,62.0
+R. Redes,Rodney Iván Redes Cáceres,20,69,83,3400000.0,500.0,Guaraní,Primera División,"LW, LM",80.0,64.0,64.0,70.0,49.0,63.0
+T. Mengi,Teden Mengi,18,65,83,1700000.0,6000.0,Manchester United,Premier League,CB,76.0,39.0,54.0,59.0,64.0,68.0
+M. Bard,Melvin Michel Maxence Bard,19,67,83,2500000.0,9000.0,Olympique Lyonnais,Ligue 1,LB,76.0,47.0,60.0,69.0,62.0,65.0
+Pedro Mendes,Pedro Manuel Lobo Peixoto Mineiro Mendes,20,71,83,4500000.0,7000.0,Almería,La Liga,ST,71.0,72.0,57.0,67.0,34.0,74.0
+M. Karbownik,Michał Karbownik,19,68,83,2700000.0,3000.0,Legia Warszawa,Ekstraklasa,"LB, CM",81.0,41.0,63.0,67.0,60.0,63.0
+N. Armini,Nicolò Armini,19,65,83,1700000.0,6000.0,Lazio,Serie A,CB,60.0,38.0,49.0,53.0,67.0,62.0
+C. Richards,Christopher Jeffrey Richards,20,66,83,2100000.0,2000.0,Bayern München II,3. Liga,"CB, RB",75.0,26.0,45.0,52.0,65.0,72.0
+A. Marin,Antonio Marin,19,67,83,2600000.0,500.0,Dinamo Zagreb,1. HNL,"LW, RW, CAM",79.0,57.0,62.0,74.0,31.0,57.0
+A. Idah,Adam Uche Idah,19,65,83,1900000.0,2000.0,Norwich City,Championship,ST,74.0,65.0,42.0,59.0,22.0,64.0
+Y. Badji,Youssouph Mamadou Badji,18,65,83,1800000.0,3000.0,Club Brugge,Jupiler Pro League,ST,70.0,63.0,52.0,64.0,28.0,70.0
+Vitinha,Vítor Machado Ferreira,20,66,83,2200000.0,3000.0,Wolverhampton Wanderers,Premier League,CM,72.0,57.0,67.0,72.0,51.0,49.0
+L. Mbe Soh,Loïc Mbe Soh,18,67,83,1500000.0,6000.0,Paris Saint Germain,Ligue 1,CB,63.0,29.0,50.0,48.0,66.0,69.0
+A. Zagré,Arthur Zagré,17,62,83,625000.0,500.0,Paris Saint Germain,Ligue 1,LB,81.0,39.0,56.0,74.0,55.0,45.0
+Sergio Camello,Sergio Camello Pérez,18,65,83,1100000.0,5000.0,Atlético Madrid,La Liga,ST,64.0,64.0,51.0,65.0,24.0,46.0
+A. Velasco,Alan Agustín Velasco,16,60,83,450000.0,500.0,Independiente,Liga Profesional,"LM, RM, ST",68.0,50.0,55.0,62.0,47.0,50.0
+H. Massengo,Han-Noah Massengo,17,63,83,675000.0,500.0,Bristol City,Championship,CDM,69.0,47.0,59.0,62.0,61.0,62.0
+D. Cirkin,Dennis Cirkin,18,61,83,1000000.0,3000.0,Tottenham Hotspur,Premier League,LB,63.0,39.0,44.0,60.0,61.0,56.0
+O. Babuşcu,Onurhan Babuşcu,16,58,83,650000.0,500.0,Admira,Bundesliga,"CAM, CM, LM",69.0,56.0,58.0,65.0,22.0,46.0
+A. Karabec,Adam Karabec,16,67,83,2500000.0,500.0,Sparta Praha,Fortuna Liga,"CAM, CM, LM",72.0,60.0,65.0,71.0,35.0,54.0
+Tiago Tomás,Tiago Barreiros de Melo Tomás,18,66,83,2200000.0,2000.0,Sporting CP,Liga Portugal,ST,72.0,65.0,49.0,63.0,23.0,58.0
+P. Nebel,Paul Nebel,17,62,83,1200000.0,1000.0,FSV Mainz 05,Bundesliga,"RW, LW, CAM",71.0,59.0,56.0,70.0,27.0,48.0
+T. Pembélé,Timothée Joseph Pembélé,17,63,83,1300000.0,550.0,Paris Saint Germain,Ligue 1,"RB, LB, CB",70.0,38.0,57.0,61.0,61.0,55.0
+Riquelme,Rodrigo Riquelme Reche,20,66,83,2200000.0,9000.0,Atlético Madrid,La Liga,"RM, LM",76.0,62.0,57.0,70.0,40.0,53.0
+Tiago Djaló,Tiago Emanuel Embaló Djaló,20,68,83,2700000.0,9000.0,Lille,Ligue 1,CB,66.0,41.0,57.0,60.0,67.0,70.0
+F. Ortega,Francisco Gabriel Ortega,21,70,83,3800000.0,6000.0,Vélez Sarsfield,Liga Profesional,"LB, LWB",87.0,59.0,62.0,75.0,61.0,71.0
+L. Traoré,Lassina Chamste Soudine Franck Traoré,18,66,83,1300000.0,2000.0,Ajax,Eredivisie,ST,79.0,64.0,50.0,69.0,28.0,67.0
+R. Márquez,Ricardo Luis Márquez González,21,69,83,2300000.0,1000.0,Club Unión Magdalena S.A,Liga BetPlay,ST,69.0,68.0,53.0,64.0,26.0,61.0
+D. Sikan,Danylo Sikan,18,63,83,775000.0,500.0,Shakhtar Donetsk,Premier League,ST,74.0,64.0,42.0,62.0,19.0,50.0
+Emerson Royal,Emerson Aparecido Leite de Souza Junior,20,71,83,3900000.0,9000.0,Real Betis,La Liga,RB,82.0,56.0,61.0,67.0,67.0,73.0
+I. Diveev,Igor Diveev,19,66,83,1300000.0,500.0,CSKA Moskva,Premier League,CB,61.0,34.0,47.0,42.0,67.0,68.0
+N. Raskin,Nicolas Thierry Raskin,20,71,83,4500000.0,8000.0,Standard Liège,Jupiler Pro League,"CM, CDM",69.0,62.0,72.0,72.0,66.0,73.0
+F. Vera,Fausto Mariano Vera,21,69,83,3400000.0,5000.0,Argentinos Juniors,Liga Profesional,"CM, CDM",66.0,57.0,69.0,69.0,62.0,64.0
+L. Cacace,Liberato Gianpaolo Cacace,20,72,83,4900000.0,8000.0,Sint-Truiden,Jupiler Pro League,"LWB, LB, LM",82.0,62.0,65.0,69.0,66.0,77.0
+L. Ramazani,Largie Ramazani,20,67,83,2700000.0,3000.0,Almería,La Liga,"RM, LM, ST",83.0,59.0,59.0,71.0,33.0,56.0
+F. Agu,Felix Agu,21,70,83,3800000.0,5000.0,Werder Bremen,Bundesliga,"LB, RB, LW",87.0,47.0,60.0,74.0,61.0,59.0
+G. Bazunu,Gavin Okeroghene Bazunu,19,64,83,1300000.0,1000.0,Portsmouth,League One,GK,,,,,,
+B. Omeragić,Bećir Omeragić,19,67,83,2500000.0,3000.0,Zürich,Super League,"CB, RB",75.0,35.0,55.0,55.0,66.0,70.0
+A. Yusuf,Alhassan Yusuf Abdullahi,20,70,83,3600000.0,8000.0,Antwerp,Jupiler Pro League,"CDM, CM",81.0,44.0,64.0,68.0,64.0,74.0
+X. Simons,Xavi Quentin Shay Simons,18,66,83,2200000.0,6000.0,Paris Saint Germain,Ligue 1,CM,68.0,57.0,66.0,70.0,57.0,60.0
+D. Alemdar,Doğan Alemdar,18,68,83,2400000.0,1000.0,Rennes,Ligue 1,GK,,,,,,
+Fran García,Francisco José García Torres,21,72,83,5000000.0,10000.0,Rayo Vallecano,La Liga,"LB, LM",90.0,49.0,63.0,70.0,65.0,60.0
+S. Sosa,Santiago Sosa,20,67,83,1600000.0,5000.0,River Plate,Liga Profesional,CDM,61.0,56.0,59.0,62.0,64.0,72.0
+A. Perea,Andrés Felipe Perea Castañeda,18,63,83,725000.0,500.0,Atlético Nacional,Liga BetPlay,"CDM, CM",69.0,44.0,53.0,59.0,60.0,65.0
+I. Aliseda,Ignacio Santiago Aliseda,19,69,83,2300000.0,5000.0,Defensa y Justicia,Liga Profesional,"LW, RW, ST",85.0,58.0,62.0,75.0,39.0,53.0
+Roberto López,Roberto López Alcaide,19,63,83,800000.0,3000.0,Real Sociedad,La Liga,CAM,54.0,51.0,65.0,67.0,16.0,33.0
+S. Plaza,Stiven Ricardo Plaza Castillo,20,69,83,2300000.0,8000.0,Real Valladolid,La Liga 2,"ST, LW",85.0,65.0,53.0,66.0,26.0,73.0
+K. Bafounta,Kamal Bafounta Ortega,17,59,83,325000.0,1000.0,Borussia Dortmund,Bundesliga,CM,66.0,50.0,54.0,60.0,56.0,61.0
+A. Gómez,Jesús Alejandro Gómez Molina,19,63,83,1300000.0,1000.0,Atlas,Liga MX,"LB, CB",67.0,34.0,48.0,59.0,61.0,60.0
+A. Ait El Hadj,Anouar Ait El Hadj,19,69,83,3300000.0,6000.0,Anderlecht,Jupiler Pro League,"CAM, CM, RW",73.0,58.0,68.0,76.0,44.0,63.0
+Eduardo Quaresma,Eduardo Filipe Quaresma Vieira Coimbra Simões,19,71,83,4200000.0,4000.0,Tondela,Liga Portugal,CB,58.0,31.0,47.0,57.0,72.0,66.0
+M. Taabouni,Mohamed Taabouni,19,66,83,2200000.0,2000.0,AZ Alkmaar,Eredivisie,"CAM, LW",76.0,55.0,62.0,72.0,43.0,51.0
+J. Kamiński,Jakub Kamiński,19,68,83,2900000.0,3000.0,Lech Poznań,Ekstraklasa,"LM, RM",91.0,62.0,61.0,67.0,47.0,53.0
+K. Tzolakis,Konstantinos Tzolakis,18,67,83,2300000.0,500.0,Olympiakos Piraeus,Super League,GK,,,,,,
+N. Mbuku,Nathanaël Mbuku,19,71,83,4400000.0,9000.0,Stade de Reims,Ligue 1,"RM, CAM, RW",78.0,64.0,67.0,76.0,34.0,49.0
+Robert Navarro,Robert Navarro Muñoz,19,67,83,2600000.0,6000.0,Real Sociedad,La Liga,"CAM, LW",77.0,62.0,58.0,69.0,33.0,63.0
+M. Azeez,Miguel Azeez,18,62,83,1300000.0,4000.0,Portsmouth,League One,CM,71.0,54.0,64.0,64.0,40.0,56.0
+Cedric Teguía,Cedric Wilfred Teguía Noubi,18,66,83,2200000.0,5000.0,Real Oviedo,La Liga 2,"LM, LB",85.0,60.0,62.0,64.0,58.0,77.0
+J. Bijol,Jaka Bijol,20,70,83,3200000.0,500.0,CSKA Moskva,Premier League,"CDM, CM",65.0,58.0,63.0,59.0,70.0,76.0
+P. Schuurs,Perr Schuurs,19,72,83,4800000.0,7000.0,Ajax,Eredivisie,CB,66.0,62.0,65.0,62.0,72.0,71.0
+Marquinhos Cipriano,Marcos Robson Cipriano,20,65,83,1200000.0,500.0,Shakhtar Donetsk,Premier League,RM,82.0,54.0,55.0,70.0,24.0,40.0
+M. Salisu,Mohamed Salisu Abdul Karim,20,68,83,1800000.0,5000.0,Real Valladolid,La Liga 2,CB,67.0,35.0,47.0,52.0,66.0,76.0
+Eric García,Eric García Martret,18,66,83,1200000.0,7000.0,Manchester City,Premier League,CB,58.0,34.0,53.0,59.0,65.0,64.0
+M. Kudus,Mohammed Kudus,18,67,83,1600000.0,2000.0,Nordsjælland,Superliga,"CM, ST, CF",85.0,58.0,63.0,77.0,49.0,69.0
+Á. Barreal,Álvaro Martín Barreal,18,68,83,1800000.0,3000.0,Vélez Sarsfield,Liga Profesional,"RW, LW",86.0,64.0,56.0,74.0,31.0,47.0
+J. Beyer,Louis Jordan Beyer,19,67,83,1500000.0,4000.0,Borussia Mönchengladbach,Bundesliga,"RB, CB",69.0,34.0,54.0,62.0,68.0,67.0
+J. Yeboah,John Yeboah Zamora,19,63,83,800000.0,5000.0,VfL Wolfsburg,Bundesliga,"LM, ST",78.0,57.0,53.0,68.0,25.0,48.0
+M. Vandevoordt,Maarten Vandevoordt,17,63,83,600000.0,500.0,Genk,Jupiler Pro League,GK,,,,,,
+Valera,Germán Valera Karabinaite,19,66,83,2200000.0,7000.0,Real Sociedad II,La Liga 2,"RM, LM, CAM",80.0,60.0,61.0,67.0,26.0,47.0
+T. Suslov,Tomáš Suslov,19,69,83,3300000.0,3000.0,FC Groningen,Eredivisie,"CAM, CF",74.0,65.0,68.0,71.0,40.0,51.0
+Ž. Laci,Žiga Laci,18,68,83,2600000.0,500.0,AEK Athens,Super League,CB,67.0,26.0,46.0,47.0,70.0,71.0
+L. Oyen,Luca Oyen,18,65,83,1800000.0,2000.0,Genk,Jupiler Pro League,LW,73.0,55.0,62.0,71.0,39.0,44.0
+M. Dárdai,Márton Dárdai,19,69,83,3100000.0,9000.0,Hertha BSC,2. Bundesliga,"CB, CDM",65.0,32.0,63.0,56.0,71.0,69.0
+Silas,Silas Katompa Mvumpa,19,70,83,3400000.0,10000.0,VfB Stuttgart,Bundesliga,ST,86.0,66.0,52.0,68.0,22.0,69.0
+M. Balikwisha,Michel Ange Balikwisha,20,70,83,3800000.0,10000.0,Antwerp,Jupiler Pro League,"RW, LW, ST",82.0,68.0,63.0,73.0,17.0,60.0
+H. Evjen,Håkon Evjen,19,68,83,1900000.0,1000.0,Bodø / Glimt,Eliteserien,RW,81.0,61.0,60.0,71.0,54.0,56.0
+J. Carbonero,Johan Stiven Carbonero Balanta,19,65,83,1200000.0,600.0,Once Caldas,Liga BetPlay,"LM, RM",84.0,61.0,51.0,68.0,19.0,59.0
+L. Gourna-Douath,Lucas Gourna-Douath,17,70,83,3400000.0,700.0,Saint-Étienne,Ligue 2,CDM,64.0,52.0,64.0,67.0,67.0,68.0
+João Mário,João Mário Neto Lopes,21,71,83,4400000.0,6000.0,Porto,Liga Portugal,"RB, RM",75.0,63.0,64.0,70.0,68.0,60.0
+A. Dedić,Amar Dedić,18,66,83,2100000.0,2000.0,Wolfsberger AC,Bundesliga,"RB, LB",80.0,57.0,64.0,67.0,59.0,62.0
+E. Lira,Erik Antonio Lira Méndez,21,69,83,3400000.0,5000.0,Pumas UNAM,Liga MX,CM,75.0,57.0,66.0,66.0,60.0,61.0
+B. Verbruggen,Bart Verbruggen,18,65,83,1600000.0,500.0,Anderlecht,Jupiler Pro League,GK,,,,,,
+L. Sučić,Luka Sučić,18,69,83,3200000.0,5000.0,Salzburg,Bundesliga,"CAM, CM, RM",75.0,65.0,69.0,71.0,50.0,62.0
+A. Álvarez Martínez,Agustín Álvarez Martínez,20,71,83,4500000.0,700.0,Peñarol,Primera Division,ST,72.0,71.0,60.0,67.0,32.0,68.0
+G. Bayrakdar,Gökdeniz Bayrakdar,19,69,83,3300000.0,5000.0,Antalyaspor,Super Lig,"RM, ST, LM",73.0,66.0,62.0,69.0,37.0,58.0
+D. Sarmiento,Darío Ariel Sarmiento,18,65,83,1800000.0,1000.0,Girona,La Liga,"LM, RM",77.0,61.0,58.0,71.0,36.0,42.0
+M. Viviani,Mattia Viviani,18,63,83,725000.0,800.0,Brescia,Serie B,"CDM, CM",71.0,55.0,63.0,62.0,59.0,61.0
+Rafael Camacho,Rafael Euclides Soares Camacho,19,64,83,975000.0,2000.0,Sporting CP,Liga Portugal,"RW, LW",74.0,56.0,58.0,67.0,47.0,55.0
+David Tavares,David José Gomes Oliveira Tavares,20,67,83,1700000.0,3000.0,Benfica,Liga Portugal,"CM, CAM",74.0,56.0,60.0,70.0,59.0,78.0
+J. Garner,James David Garner,18,63,83,725000.0,5000.0,Manchester United,Premier League,"CDM, CM, CB",63.0,54.0,61.0,58.0,61.0,60.0
+R. Tagir,Ravil Tagir,18,65,83,1700000.0,2000.0,İstanbul Başakşehir,Super Lig,CB,67.0,33.0,54.0,61.0,67.0,61.0
+Rodrigo Gomes,Rodrigo Martins Gomes,17,63,83,1300000.0,650.0,Sporting Braga,Liga Portugal,"RW, LW, ST",71.0,61.0,52.0,65.0,30.0,44.0
+E. Smith Rowe,Emile Smith Rowe,18,65,83,1100000.0,7000.0,Arsenal,Premier League,"LW, RW, CAM",79.0,63.0,59.0,68.0,32.0,47.0
+L. Pintor,Lenny Jean-Pierre Pintor,18,64,83,950000.0,6000.0,Troyes,Ligue 2,"ST, LW",75.0,63.0,49.0,68.0,27.0,49.0
+L. Foster,Lyle Brent Foster,18,65,83,1100000.0,4000.0,Monaco,Ligue 1,ST,73.0,65.0,51.0,64.0,34.0,61.0
+J. Ferreira,Jesús David Ferreira Castro,18,66,83,1300000.0,1000.0,Dallas,Major League Soccer,"ST, RW",84.0,64.0,44.0,62.0,24.0,61.0
+C. Willock,Chris Anthony Willock,21,68,83,2000000.0,4000.0,West Bromwich Albion,Championship,LM,82.0,54.0,57.0,75.0,24.0,52.0
+M. Romero,Maximiliano Samuel Romero,20,69,83,2300000.0,7000.0,Vélez Sarsfield,Liga Profesional,ST,76.0,70.0,49.0,65.0,27.0,69.0
+S. Muñoz,Santiago René Muñóz Robles,18,67,83,2600000.0,3000.0,Newcastle United,Premier League,"ST, CAM",75.0,63.0,60.0,71.0,25.0,65.0
+T. Nakai,中井 卓大,17,61,83,1000000.0,2000.0,Real Madrid,La Liga,CAM,58.0,50.0,60.0,64.0,31.0,47.0
+R. van den Berg,Rav van den Berg,16,59,83,675000.0,500.0,PEC Zwolle,Eredivisie,CB,54.0,32.0,45.0,54.0,57.0,59.0
+Joan García,Joan García Pons,20,67,83,2400000.0,3000.0,Espanyol,La Liga 2,GK,,,,,,
+H. Siquet,Hugo Siquet,18,69,83,3100000.0,2000.0,Standard Liège,Jupiler Pro League,"RB, RWB",75.0,55.0,72.0,66.0,63.0,67.0
+A. Varela,Alan Gonzalo Varela,19,69,83,3100000.0,4000.0,Boca Juniors,Liga Profesional,"CDM, CM",67.0,50.0,67.0,67.0,62.0,65.0
+A. Onana,Amadou Zeund Georges Ba Mvom Onana,19,68,83,2700000.0,6000.0,Lille,Ligue 1,"CDM, CM",71.0,53.0,61.0,66.0,66.0,74.0
+P. Nebel,Paul Nebel,18,64,83,1500000.0,2000.0,FSV Mainz 05,Bundesliga,"RM, LM, CAM",76.0,56.0,58.0,71.0,27.0,48.0
+T. Chancalay,Tomás Alejandro Chancalay,19,68,83,1900000.0,4000.0,Colón,Liga Profesional,"ST, LM, CAM",81.0,64.0,65.0,76.0,37.0,59.0
+G. Pezzella,Giuseppe Pezzella,21,71,83,3800000.0,7000.0,Udinese,Serie A,"LB, LM",77.0,52.0,64.0,71.0,67.0,75.0
+G. Middleton,Glenn Bell Dollar Middleton,19,64,83,975000.0,7000.0,Hibernian,Premiership,LW,86.0,53.0,56.0,68.0,28.0,50.0
+Diogo Leite,Diogo Filipe Monteiro Pinto Leite,20,72,83,4900000.0,6000.0,Porto,Liga Portugal,CB,60.0,38.0,45.0,55.0,73.0,70.0
+Diogo Costa,Diogo Meireles Costa,19,70,83,2700000.0,2000.0,Porto,Liga Portugal,GK,,,,,,
+D. Maresic,Dario Maresic,19,71,83,3800000.0,7000.0,Sturm Graz,Bundesliga,CB,58.0,31.0,53.0,51.0,73.0,72.0
+R. Guitane,Rafik Guitane,20,66,83,1400000.0,8000.0,Rennes,Ligue 1,CAM,77.0,54.0,62.0,72.0,30.0,45.0
+L. Itter,Gian-Luca Itter,20,67,83,1600000.0,6000.0,SC Freiburg,Bundesliga,LB,69.0,44.0,63.0,68.0,66.0,61.0
+J. Vagnoman,Josha Mamadou Karaboue Vagnoman,17,61,83,500000.0,2000.0,Hamburger SV,2. Bundesliga,"LB, RB",78.0,30.0,50.0,64.0,53.0,69.0
+L. Pellegrini,Luca Pellegrini,19,65,83,1000000.0,6000.0,Roma,Serie A,LB,73.0,35.0,51.0,62.0,63.0,54.0
+C. Medina,Cristian Nicolás Medina,19,70,83,3800000.0,5000.0,Boca Juniors,Liga Profesional,CM,69.0,59.0,67.0,71.0,59.0,62.0
+L. Bate,Lewis Bate,18,63,83,1300000.0,5000.0,Leeds United,Championship,"CM, CDM",71.0,49.0,66.0,65.0,54.0,57.0
+D. Touré,Djibril Fandje Touré,18,60,83,775000.0,3000.0,Watford,Championship,ST,87.0,62.0,43.0,65.0,17.0,38.0
+M. Baturina,Martin Baturina,18,64,83,1500000.0,500.0,Dinamo Zagreb,1. HNL,"CM, CAM",73.0,54.0,63.0,71.0,51.0,54.0
+Fabio Blanco,Fabio Blanco Gómez,17,62,83,1200000.0,600.0,Eintracht Frankfurt,Bundesliga,RM,73.0,56.0,55.0,66.0,28.0,46.0
+V. Barco,Valentín Barco,16,63,83,1300000.0,500.0,Boca Juniors,Liga Profesional,LB,64.0,32.0,54.0,64.0,58.0,51.0
+F. Amuzu,Francis Apelete Amuzu,18,66,83,1300000.0,3000.0,Anderlecht,Jupiler Pro League,"LM, CF",87.0,59.0,60.0,68.0,26.0,55.0
+M. Barrow,Musa Barrow,19,66,83,1400000.0,5000.0,Atalanta,Serie A,ST,83.0,63.0,47.0,66.0,31.0,59.0
+R. James,Reece James,18,63,83,675000.0,4000.0,Wigan Athletic,League One,"RB, CB",62.0,47.0,62.0,59.0,62.0,67.0
+R. Providence,Ruben Providence,19,67,83,2600000.0,10000.0,Club Brugge,Jupiler Pro League,"LW, RW, ST",83.0,58.0,52.0,77.0,27.0,37.0
+M. Abline,Matthis Abline,18,66,83,2200000.0,5000.0,Rennes,Ligue 1,ST,75.0,68.0,54.0,69.0,23.0,48.0
+E. Loiodice,Enzo Loiodice,21,71,83,4400000.0,5000.0,Las Palmas,La Liga,"CDM, CM",66.0,59.0,67.0,73.0,65.0,65.0
+B. Omeragić,Bećir Omeragić,20,68,83,2700000.0,5000.0,Zürich,Super League,"CB, RB",75.0,40.0,61.0,62.0,66.0,70.0
+R. Pepi,Ricardo Daniel Pepi,19,69,83,3300000.0,8000.0,FC Groningen,Eredivisie,ST,71.0,67.0,54.0,67.0,37.0,63.0
+L. Chevalier,Lucas Chevalier,20,67,83,2400000.0,5000.0,Lille,Ligue 1,GK,,,,,,
+J. Enciso,Julio César Enciso Espínola,18,63,83,1300000.0,4000.0,Brighton & Hove Albion,Premier League,"RM, RW",78.0,65.0,55.0,67.0,31.0,43.0
+D. Fofana,David Datro Fofana,18,63,83,1300000.0,700.0,Molde,Eliteserien,ST,86.0,59.0,50.0,66.0,22.0,65.0
+O. Batista Meier,Oliver Batista Meier,17,63,83,725000.0,6000.0,FC Bayern München,Bundesliga,"LM, LW",74.0,57.0,50.0,72.0,29.0,44.0
+Fernando,Fernando Dos Santos Pedro,19,69,83,2300000.0,500.0,Shakhtar Donetsk,Premier League,"LW, LM",77.0,61.0,60.0,71.0,26.0,43.0
+B. Baiye,Brandon Baiye,17,63,83,650000.0,2000.0,Club Brugge,Jupiler Pro League,"CDM, CM",64.0,36.0,51.0,58.0,62.0,67.0
+P. Mićin,Petar Mićin,19,66,83,1400000.0,5000.0,Udinese,Serie A,"RW, ST, LW",69.0,65.0,61.0,69.0,34.0,56.0
+J. Carranza,Julián Simón Carranza,18,63,83,775000.0,2000.0,Banfield,Liga Profesional,ST,72.0,60.0,48.0,62.0,30.0,57.0
+A. Barkok,Aymen Barkok,20,69,83,2300000.0,10000.0,Fortuna Düsseldorf,2. Bundesliga,"RM, CAM",70.0,61.0,62.0,78.0,52.0,63.0
+R. Petretta,Raoul Petretta,21,69,83,2100000.0,8000.0,Basel,Super League,LB,79.0,36.0,61.0,67.0,67.0,69.0
+B. Riveros,Blás Miguel Riveros Galeano,20,69,83,2100000.0,8000.0,Basel,Super League,"LB, LM, LWB",84.0,29.0,54.0,73.0,61.0,71.0
+A. Isak,Alexander Isak,18,69,83,2200000.0,10000.0,Borussia Dortmund,Bundesliga,ST,77.0,65.0,52.0,70.0,27.0,58.0
+M. Fofana,Malick Martin Fofana,17,63,83,1300000.0,600.0,Gent,Jupiler Pro League,"RM, LM, ST",80.0,56.0,56.0,71.0,20.0,39.0
+L. Delaurier-Chaubet,Logan Delaurier-Chaubet,20,66,83,2200000.0,2000.0,Bordeaux,Ligue 2,"LW, RW",70.0,59.0,70.0,68.0,29.0,39.0
+M. Tillman,Malik Tillman,20,66,83,2200000.0,10000.0,Rangers,Premiership,"CAM, ST, LM",79.0,64.0,57.0,67.0,19.0,60.0
+L. Gourna-Douath,Lucas Gourna-Douath,18,72,83,4600000.0,5000.0,Salzburg,Bundesliga,"CDM, CM",76.0,52.0,65.0,71.0,70.0,73.0
+J. Aude,Julián Ezequiel Aude Bernardi,19,67,83,2500000.0,3000.0,Lanús,Liga Profesional,"LB, CDM",71.0,46.0,62.0,75.0,60.0,64.0
+I. Touré,Souleymane Isaak Touré,19,67,83,2500000.0,6000.0,Olympique de Marseille,Ligue 1,CB,67.0,30.0,48.0,54.0,63.0,80.0
+Tiago Araújo,Tiago Filipe Alves Araújo,20,67,83,2700000.0,3000.0,Arouca,Liga Portugal,LM,86.0,61.0,61.0,69.0,37.0,65.0
+D. Zagadou,Dan-Axel Zagadou,19,69,83,2000000.0,8000.0,Borussia Dortmund,Bundesliga,"CB, LB",64.0,31.0,46.0,50.0,67.0,75.0
+G. Maggiore,Giulio Maggiore,20,67,83,1700000.0,2000.0,Spezia,Serie B,CM,57.0,53.0,61.0,64.0,61.0,67.0
+L. Foster,Lyle Brent Foster,17,65,83,1100000.0,500.0,Orlando Pirates,Premier League,"ST, CAM",74.0,65.0,51.0,64.0,34.0,54.0
+P. Daka,Patson Daka,19,65,83,1200000.0,5000.0,Salzburg,Bundesliga,ST,83.0,63.0,50.0,65.0,23.0,66.0
+H. Cochrane,Harry Cochrane,17,64,83,875000.0,1000.0,Hearts,Premiership,CM,67.0,54.0,59.0,68.0,53.0,52.0
+F. Parisi,Fabiano Parisi,21,71,83,4400000.0,5000.0,Empoli,Serie A,LB,70.0,63.0,60.0,70.0,65.0,63.0
+B. Brereton Díaz,Benjamin Anthony Brereton Díaz,19,69,83,2300000.0,10000.0,Nottingham Forest,Premier League,"ST, RM",86.0,65.0,58.0,70.0,42.0,70.0
+D. Rice,Declan Rice,19,69,83,2000000.0,10000.0,West Ham United,Premier League,"CB, CDM",59.0,32.0,51.0,53.0,69.0,70.0
+Maycon,Maycon de Andrade Barberan,20,69,83,2100000.0,500.0,Shakhtar Donetsk,Premier League,"CDM, CM",70.0,63.0,66.0,68.0,65.0,67.0
+D. Arzani,Daniel Arzani,19,69,83,2300000.0,10000.0,Celtic,Premiership,"RM, CAM, LM",80.0,59.0,62.0,73.0,31.0,40.0
+F. Passlack,Felix Passlack,20,69,83,2100000.0,9000.0,Norwich City,Championship,"RB, RM, LB",74.0,59.0,66.0,73.0,65.0,77.0
+E. Audero,Emil Audero Mulyadi,21,69,83,1900000.0,8000.0,Sampdoria,Serie B,GK,,,,,,
+F. Rieder,Fabian Rieder,20,68,83,2900000.0,7000.0,Young Boys,Super League,"CAM, CM",69.0,61.0,69.0,70.0,50.0,61.0
+T. Nakai,中井 卓大,18,61,83,1000000.0,7000.0,Real Madrid,La Liga,CAM,58.0,50.0,59.0,66.0,31.0,47.0
+Y. Chacón,Yerson Ronaldo Chacón Ramírez,19,66,83,2200000.0,500.0,Deportivo Táchira,Primera Division,RM,80.0,64.0,59.0,67.0,27.0,41.0
+Arnau Martínez,Arnau Martínez López,19,71,83,4300000.0,8000.0,Girona,La Liga,"RWB, RB, CB",74.0,43.0,60.0,66.0,68.0,67.0
+M. Kerkez,Milos Kerkez,18,69,83,3100000.0,1000.0,AZ Alkmaar,Eredivisie,LB,85.0,47.0,62.0,69.0,60.0,68.0
+S. Shoretire,Shola Maxwell Shoretire,18,64,83,1500000.0,7000.0,Manchester United,Premier League,"RM, CAM, CM",73.0,57.0,60.0,68.0,40.0,56.0
+D. Fofana,David Datro Fofana,19,66,83,2200000.0,1000.0,Molde,Eliteserien,ST,90.0,62.0,52.0,69.0,22.0,72.0
+A. Schjelderup,Andreas Rædergård Schjelderup,18,66,83,2200000.0,1000.0,Nordsjælland,Superliga,"CAM, LW, ST",75.0,59.0,60.0,71.0,35.0,47.0
+F. Díaz,Fabricio Díaz Badaracco,19,72,83,4800000.0,500.0,Liverpool,Primera Division,"CDM, CM",70.0,64.0,67.0,72.0,70.0,63.0
+C. Riquelme,Cristian Riquelme,18,60,83,750000.0,500.0,Everton,Primera Division,"LB, LM",74.0,26.0,42.0,59.0,57.0,60.0
+M. Bulat,Marko Bulat,20,69,83,3300000.0,500.0,Dinamo Zagreb,1. HNL,"CM, CDM",68.0,65.0,75.0,71.0,60.0,69.0
+W. Faríñez,Wuilker Fariñez Aray,20,73,83,5000000.0,3000.0,Millonarios,Liga BetPlay,GK,,,,,,
+M. Svanberg,Mattias Olof Svanberg,19,68,83,1900000.0,6000.0,Bologna,Serie A,"LM, RM",83.0,59.0,67.0,71.0,46.0,67.0
+L. Nmecha,Lukas Nmecha,19,66,83,1400000.0,3000.0,Preston North End,Championship,ST,76.0,65.0,40.0,65.0,28.0,66.0
+G. Pezzella,Giuseppe Pezzella,20,71,83,3700000.0,10000.0,Udinese,Serie A,"LB, LM",79.0,52.0,64.0,71.0,67.0,76.0
+J. Leko,Jonathan Leko,19,66,83,1400000.0,6000.0,West Bromwich Albion,Championship,"RW, ST, LW",89.0,63.0,50.0,73.0,24.0,59.0
+E. Palacios,Exequiel Alejandro Palacios,19,69,83,2200000.0,6000.0,River Plate,Liga Profesional,"CM, CAM",74.0,65.0,67.0,71.0,58.0,60.0
+Ontiveros,Javier Ontiveros Parra,20,71,83,4200000.0,6000.0,Málaga,La Liga 2,"RM, CAM, LM",75.0,68.0,69.0,75.0,32.0,44.0
+R. van Drongelen,Rick van Drongelen,19,71,83,3600000.0,4000.0,Hamburger SV,2. Bundesliga,"CB, LB",66.0,25.0,58.0,51.0,72.0,72.0
+Kang Seong Jin,Seong Jin Kang,19,63,83,1300000.0,1000.0,Seoul,K League 1,"RW, RM",82.0,58.0,53.0,64.0,27.0,52.0
+J. Grimaldo,Joao Alberto Grimaldo Ubidia,19,64,83,1500000.0,500.0,Sporting Cristal,Primera Division,"CAM, RW",72.0,65.0,61.0,65.0,36.0,51.0
+E. Fernández,Ignacio Ezequiél Agustín Fernández Carballo,19,68,83,2700000.0,3000.0,Tigre,Liga Profesional,"CDM, CM",62.0,43.0,61.0,65.0,67.0,68.0
+Rubén Sánchez,Rubén Sánchez Sáez,21,70,83,3800000.0,7000.0,Espanyol,La Liga 2,"RB, RM",85.0,56.0,62.0,68.0,61.0,71.0
+M. Vušković,Mario Vušković,20,72,83,4800000.0,7000.0,Hamburger SV,2. Bundesliga,CB,65.0,33.0,46.0,47.0,72.0,74.0
+Z. Sertdemir,Batuhan Zidan Sertdemir,17,62,83,1200000.0,1000.0,Bayer 04 Leverkusen,Bundesliga,"CM, CAM",69.0,54.0,62.0,69.0,47.0,54.0
+M. Coulibaly,Mamadou Coulibaly,18,63,83,750000.0,1000.0,Pescara,Serie B,CM,65.0,47.0,61.0,62.0,54.0,72.0
+D. Zagadou,Dan-Axel Zagadou,18,63,83,675000.0,5000.0,Borussia Dortmund,Bundesliga,"CB, LB",57.0,28.0,41.0,48.0,61.0,72.0
+Abel Ruiz,Abel Ruiz Ortega,17,64,83,900000.0,2000.0,FC Barcelona B,La Liga 2,"ST, LW, RW",64.0,64.0,49.0,61.0,19.0,63.0
+N. Kühn,Nicolas-Gerrit Kühn,17,61,83,550000.0,7000.0,RB Leipzig,Bundesliga,ST,65.0,61.0,53.0,72.0,23.0,38.0
+G. Poussin,Gaëtan Poussin,18,62,83,575000.0,3000.0,Bordeaux,Ligue 2,GK,,,,,,
+K. Balanta,Kevin Alexander Balanta Lucumí,21,71,83,3700000.0,2000.0,Deportivo Cali,Liga BetPlay,"CDM, CM",65.0,49.0,56.0,64.0,69.0,78.0
+G. Taylor,Greg John Taylor,20,69,83,2100000.0,3000.0,Kilmarnock,Premiership,"LB, CM, LM",78.0,52.0,66.0,66.0,62.0,78.0
+C. Stengs,Calvin Stengs,18,68,83,1800000.0,5000.0,AZ Alkmaar,Eredivisie,RW,78.0,51.0,68.0,72.0,33.0,51.0
+Gonçalo Esteves,Gonçalo do Lago Pontes Esteves,18,70,83,3500000.0,2000.0,Estoril,Liga Portugal,"RB, RWB",76.0,39.0,64.0,69.0,65.0,64.0
+A. Devine,Alfie Devine,17,60,83,775000.0,1000.0,Tottenham Hotspur,Premier League,"CAM, LW",64.0,55.0,58.0,60.0,51.0,55.0
+E. Poku,Ernest Poku,18,63,83,1300000.0,1000.0,AZ Alkmaar,Eredivisie,RW,92.0,52.0,52.0,67.0,28.0,44.0
+F. Chiarodia,Fabio Cristian Chiarodia,17,60,83,725000.0,500.0,Werder Bremen,Bundesliga,CB,66.0,33.0,48.0,55.0,61.0,59.0
+Iker Bravo,Iker Bravo Solanilla,17,64,83,1500000.0,2000.0,Real Madrid,La Liga,"ST, RM",69.0,64.0,50.0,62.0,23.0,57.0
+H. Vale,Harvey Vale,18,63,83,1300000.0,6000.0,Hull City,Championship,"CAM, RW, LW",73.0,61.0,62.0,65.0,47.0,52.0
+G. Restes,Guillaume Restes,17,60,83,700000.0,500.0,Toulouse,Ligue 1,GK,,,,,,
+A. Tibidi,Alexis Tibidi,18,65,83,1800000.0,3000.0,Rheindorf Altach,Bundesliga,"CF, ST, CAM",77.0,61.0,55.0,67.0,24.0,55.0
+M. García,Mateo Ezequiel García,20,71,83,4200000.0,7000.0,Osasuna,La Liga,"LM, RM",72.0,67.0,65.0,77.0,24.0,42.0
+F. Bustos,Fabricio Bustos Sein,21,71,83,3700000.0,10000.0,Independiente,Liga Profesional,"RB, RM, LB",82.0,50.0,62.0,71.0,65.0,57.0
+M. Svilar,Mile Svilar,17,63,83,600000.0,1000.0,Benfica,Liga Portugal,GK,,,,,,
+K. Andrade,Kervin Andrade,17,64,83,1500000.0,500.0,Deportivo La Guaira,Primera Division,"CAM, RM, CM",73.0,59.0,60.0,65.0,46.0,51.0
+I. Maestro Puch,Ignacio Daniel Maestro Puch,18,65,83,1800000.0,1000.0,Atlético Tucumán,Liga Profesional,ST,66.0,66.0,47.0,63.0,22.0,63.0
+Vinícius Tobías,Vinícius Tobías da Silva,18,65,83,1700000.0,500.0,Real Madrid,La Liga,"RB, RM",74.0,44.0,51.0,68.0,61.0,61.0
+Tiago Gouveia,Tiago Maria Antunes Gouveia,21,68,83,3000000.0,5000.0,Estoril,Liga Portugal,"RW, LW",84.0,63.0,57.0,71.0,28.0,54.0
+Simo,Wassim Keddari Boulif,17,62,83,1200000.0,500.0,Espanyol,La Liga 2,CB,59.0,36.0,49.0,53.0,63.0,64.0
+Paulo Bernardo,Paulo Guilherme Gonçalves Bernardo,20,67,83,2700000.0,3000.0,Benfica,Liga Portugal,CM,72.0,63.0,64.0,72.0,53.0,66.0
+R. Lavia,Roméo Lavia,18,62,83,1200000.0,2000.0,Southampton,Championship,CDM,56.0,41.0,52.0,59.0,62.0,60.0
+T. Bischof,Tom Bischof,17,62,83,1200000.0,750.0,TSG Hoffenheim,Bundesliga,CAM,63.0,51.0,62.0,66.0,41.0,49.0
+C. Setola,Carmine Setola,18,63,83,675000.0,500.0,Cesena,Serie B,"LB, LM",71.0,42.0,56.0,59.0,60.0,59.0
+O. Okwonkwo,Orji Okwonkwo,19,66,83,1400000.0,9000.0,Bologna,Serie A,LW,75.0,61.0,60.0,72.0,30.0,57.0
+E. Latte Lath,Emmanuel Delan Junior Latte Lath,18,63,83,750000.0,1000.0,Pescara,Serie B,RW,72.0,63.0,55.0,66.0,32.0,56.0
+F. Melegoni,Filippo Melegoni,18,63,83,750000.0,3000.0,Atalanta,Serie A,CM,58.0,55.0,66.0,63.0,50.0,50.0
+M. Sylla,Moussa Sylla,17,60,83,450000.0,3000.0,Monaco,Ligue 1,ST,69.0,61.0,42.0,66.0,21.0,51.0
+V. Osimhen,Victor James Osimhen,18,65,83,1100000.0,10000.0,VfL Wolfsburg,Bundesliga,ST,75.0,64.0,46.0,62.0,24.0,60.0
+L. Jović,Luka Jović,19,70,83,3400000.0,10000.0,Eintracht Frankfurt,Bundesliga,ST,76.0,68.0,59.0,72.0,27.0,63.0
+M. Mount,Mason Mount,18,65,83,1100000.0,3000.0,Vitesse,Eredivisie,"CAM, CM",69.0,58.0,64.0,71.0,44.0,47.0
+C. Ünder,Cengiz Ünder,18,68,83,1700000.0,7000.0,İstanbul Başakşehir,Super Lig,RM,77.0,61.0,62.0,68.0,32.0,56.0
+L. Ulrich,Laurin Ulrich,17,60,83,775000.0,500.0,VfB Stuttgart,Bundesliga,"CM, CAM, LM",76.0,59.0,59.0,67.0,45.0,63.0
+D. Kameri,Dijon Kameri,18,66,83,2200000.0,3000.0,Salzburg,Bundesliga,CAM,73.0,64.0,62.0,70.0,38.0,62.0
+C. Cowell,Cade Dylan Cowell,19,69,83,3300000.0,2000.0,San Jose Earthquakes,Major League Soccer,"LM, ST, RM",93.0,62.0,59.0,70.0,34.0,77.0
+R. Pepi,Ricardo Daniel Pepi,20,71,83,4500000.0,9000.0,PSV,Eredivisie,ST,71.0,73.0,55.0,69.0,41.0,70.0
+Z. Debast,Zeno Debast,19,71,83,4200000.0,8000.0,Anderlecht,Jupiler Pro League,CB,66.0,53.0,68.0,68.0,70.0,73.0
+F. Díaz,Fabricio Díaz Badaracco,20,72,83,5000000.0,550.0,Liverpool,Primera Division,"CM, CDM",74.0,65.0,68.0,72.0,70.0,65.0
+M. Fofana,Malick Martin Fofana,18,65,83,1800000.0,2000.0,Gent,Jupiler Pro League,"LM, CAM",80.0,56.0,59.0,74.0,25.0,38.0
+Tomás Araújo,Tomás Lemos Araújo,20,67,83,2500000.0,3000.0,Gil Vicente,Liga Portugal,CB,69.0,29.0,39.0,52.0,66.0,71.0
+Ronaldo Vieira,Ronaldo Augusto Vieira Nan,18,69,83,2000000.0,10000.0,Leeds United,Championship,"CDM, CM",78.0,56.0,64.0,70.0,65.0,73.0
+Diogo Dalot,José Diogo Dalot Teixeira,18,68,83,1600000.0,4000.0,Porto,Liga Portugal,RB,73.0,48.0,52.0,68.0,65.0,71.0
+J. Ikoné,Nanitamo Jonathan Ikoné,19,71,83,4100000.0,10000.0,Montpellier,Ligue 1,"RM, LW",87.0,65.0,59.0,76.0,30.0,58.0
+L. Bénes,László Bénes,19,69,83,2300000.0,10000.0,Borussia Mönchengladbach,Bundesliga,"CAM, CM, LM",66.0,64.0,71.0,68.0,38.0,55.0
+J. Eggestein,Johannes Eggestein,18,64,83,850000.0,5000.0,Werder Bremen,Bundesliga,ST,66.0,65.0,54.0,62.0,30.0,49.0
+M. de Ligt,Matthijs de Ligt,16,63,83,575000.0,1000.0,Ajax,Eredivisie,CB,58.0,28.0,48.0,40.0,63.0,64.0
+M. Sarr,Malang Sarr,17,69,83,1700000.0,9000.0,Nice,Ligue 1,"LB, CB",71.0,44.0,65.0,65.0,69.0,67.0
+O. Popescu,Octavian George Popescu,20,70,83,3800000.0,8000.0,FCSB,Liga 1,"LW, RW",82.0,66.0,67.0,75.0,31.0,57.0
+R. Drăgușin,Radu Matei Drăgușin,21,70,83,3700000.0,9000.0,Genoa,Serie A,CB,74.0,37.0,47.0,58.0,71.0,73.0
+M. Stroeykens,Mario Stroeykens,18,67,83,2600000.0,3000.0,Anderlecht,Jupiler Pro League,"CAM, CF, ST",74.0,64.0,63.0,71.0,30.0,62.0
+J. Bos,Jordan Bos,20,69,83,3200000.0,4000.0,Westerlo,Jupiler Pro League,"LB, LM",86.0,58.0,61.0,70.0,62.0,77.0
+Karrikaburu,Jon Karrikaburu,20,68,83,2900000.0,10000.0,Deportivo Alavés,La Liga,ST,71.0,68.0,52.0,67.0,26.0,58.0
+M. Brkljača,Marko Brkljača,17,62,83,1200000.0,500.0,Dinamo Zagreb,1. HNL,"CAM, CM",73.0,48.0,54.0,72.0,34.0,48.0
+T. Adarabioyo,Oluwatosin Adarabioyo,19,63,83,725000.0,9000.0,Manchester City,Premier League,CB,55.0,29.0,43.0,52.0,61.0,69.0
+O. Boscagli,Olivier Maxime Boscagli,19,71,83,3600000.0,3000.0,Nîmes,Ligue 2,"CB, LB",68.0,28.0,62.0,66.0,71.0,71.0
+N. Mukiele,Nordi Mukiele Mulere,19,72,83,4500000.0,9000.0,Montpellier,Ligue 1,"RB, CB",81.0,36.0,63.0,68.0,70.0,76.0
+L. Martínez Quarta,Lucas Martínez Quarta,21,70,83,3000000.0,10000.0,River Plate,Liga Profesional,CB,69.0,53.0,62.0,65.0,68.0,70.0
+R. Nelson,Reiss Nelson,17,59,83,350000.0,7000.0,Arsenal,Premier League,RM,81.0,53.0,46.0,70.0,29.0,41.0
+M. van Bergen,Mitchell van Bergen,17,64,83,900000.0,3000.0,Vitesse,Eredivisie,"RW, LW",87.0,53.0,56.0,69.0,23.0,45.0
+Han Chan Hee,한찬희 韩赞熙,20,71,83,4200000.0,5000.0,Jeonnam Dragons,K League 1,"CM, CAM",69.0,64.0,70.0,71.0,52.0,67.0
+Christian Rivera,Christian Rivera Hernández,18,65,83,1000000.0,4000.0,SD Eibar,La Liga 2,"CM, CDM",55.0,46.0,66.0,61.0,57.0,62.0
+A. Dioussé,Assane Dioussé El Hadji,18,67,83,1300000.0,4000.0,Empoli,Serie A,"CDM, CM",73.0,43.0,64.0,74.0,59.0,64.0
+R. Manaj,Rey Manaj,19,67,83,1500000.0,9000.0,Pescara,Serie B,ST,67.0,63.0,47.0,65.0,21.0,64.0
+M. Svilar,Mile Svilar,16,63,83,575000.0,500.0,Anderlecht,Jupiler Pro League,GK,,,,,,
+J. Cardona,Jown Anderson Cardona Agudelo,21,70,83,2600000.0,2000.0,Cortuluá,Liga BetPlay,CAM,77.0,58.0,63.0,74.0,39.0,58.0
+F. Chiarodia,Fabio Cristian Chiarodia,18,62,83,1200000.0,1000.0,Borussia Mönchengladbach,Bundesliga,CB,66.0,33.0,49.0,55.0,62.0,61.0
+Iker Bravo,Iker Bravo Solanilla,18,67,83,2600000.0,7000.0,Real Madrid,La Liga,"ST, LW, RW",68.0,68.0,53.0,67.0,23.0,56.0
+A. Aravena,Alexander Ernesto Aravena Guzmán,20,72,83,5000000.0,6000.0,Universidad Católica,Primera Division,"LM, ST, CAM",84.0,68.0,62.0,72.0,24.0,63.0
+I. Doukouré,Ismaël Landry Doukouré,19,70,83,3500000.0,6000.0,Strasbourg,Ligue 1,"CB, RB",61.0,28.0,52.0,59.0,71.0,68.0
+A. Jashari,Ardon Jashari,20,71,83,4300000.0,5000.0,Luzern,Super League,"CDM, CM",66.0,61.0,67.0,70.0,64.0,79.0
+M. van Bergen,Mitchell van Bergen,16,63,83,650000.0,2000.0,Vitesse,Eredivisie,"RW, LW",87.0,56.0,54.0,68.0,22.0,44.0
+Ç. Söyüncü,Çağlar Söyüncü,20,69,83,2000000.0,10000.0,SC Freiburg,Bundesliga,CB,66.0,43.0,54.0,58.0,67.0,73.0
+Caio Henrique,Caio Henrique Oliveira Silva,18,66,83,1200000.0,8000.0,Atlético Madrid,La Liga,CAM,61.0,54.0,67.0,66.0,37.0,35.0
+C. Awaziem,Chidozie Collins Awaziem,19,72,83,2900000.0,7000.0,Porto,Liga Portugal,CB,71.0,39.0,41.0,53.0,71.0,74.0
+D. Kamada,鎌田 大地,19,67,83,1500000.0,3000.0,Sagan Tosu,J-League,"CAM, CM",81.0,52.0,62.0,70.0,36.0,64.0
+O. Edouard,Odsonne Édouard,18,67,83,1400000.0,10000.0,Toulouse,Ligue 1,RM,77.0,67.0,56.0,72.0,44.0,69.0
+Joan González,Joan González Cañellas,21,69,83,3400000.0,6000.0,Lecce,Serie A,CM,66.0,61.0,69.0,68.0,53.0,76.0
+Tomás Araújo,Tomás Lemos Araújo,21,70,83,3700000.0,5000.0,Benfica,Liga Portugal,CB,71.0,29.0,41.0,52.0,70.0,74.0
+N. Irankunda,Nestory Irankunda,17,62,83,1200000.0,500.0,Adelaide United,A-League,RM,89.0,66.0,55.0,64.0,29.0,63.0
+S. Kumbedi,Sael Kumbedi Nseke,18,71,83,4200000.0,6000.0,Olympique Lyonnais,Ligue 1,"RB, RWB",82.0,42.0,62.0,72.0,65.0,62.0
+J. Belocian,Jeanuël Belocian,18,68,83,2700000.0,4000.0,Rennes,Ligue 1,"LB, CB",64.0,40.0,62.0,65.0,69.0,66.0
+A. Giay,Agustín Giay,19,71,83,4300000.0,5000.0,San Lorenzo,Liga Profesional,"RWB, RM, CM",77.0,58.0,64.0,69.0,67.0,65.0
+H. Larsson,Hugo Larsson,19,67,83,2600000.0,7000.0,Eintracht Frankfurt,Bundesliga,"CM, CDM",76.0,56.0,60.0,67.0,60.0,75.0
+E. Bitshiabu,El Chadaille Bitshiabu,18,68,83,2600000.0,5000.0,RB Leipzig,Bundesliga,CB,37.0,36.0,55.0,51.0,67.0,77.0
+Z. Sertdemir,Batuhan Zidan Sertdemir,18,62,83,1300000.0,900.0,Nordsjælland,Superliga,"CM, CAM",69.0,54.0,62.0,69.0,47.0,56.0
+O. Çınar,Orkan Çınar,20,72,83,3600000.0,9000.0,Gaziantepspor,Super Lig,"RM, LM",78.0,66.0,69.0,77.0,24.0,60.0
+André Leal,André Filipe Carneiro Leal,20,73,83,4700000.0,9000.0,Paços de Ferreira,Liga Portugal,"CAM, CM",73.0,63.0,69.0,75.0,53.0,49.0
+Adrián Marín,Adrián Marín Gómez,19,73,83,3600000.0,10000.0,Leganés,La Liga 2,LB,72.0,45.0,64.0,70.0,71.0,65.0
+K. Balanta,Kevin Alexander Balanta Lucumí,19,68,83,1600000.0,2000.0,Deportivo Cali,Liga BetPlay,CDM,67.0,48.0,55.0,63.0,63.0,77.0
+J. Drommel,Joël Drommel,18,65,83,925000.0,2000.0,FC Twente,Eredivisie,GK,,,,,,
+W. Ndidi,Onyinye Wilfred Ndidi,19,72,83,2900000.0,6000.0,Genk,Jupiler Pro League,"CDM, CM",77.0,54.0,61.0,64.0,71.0,77.0
+L. Tousart,Lucas Simon Pierre Tousart,19,67,83,1500000.0,10000.0,Olympique Lyonnais,Ligue 1,"CM, CDM",65.0,50.0,63.0,65.0,66.0,76.0
+P. Nardi,Paul Nardi,20,68,83,725000.0,7000.0,Nancy,Ligue 2,GK,,,,,,
+N. Chalobah,Nathaniel Chalobah,19,68,83,750000.0,7000.0,Burnley,Premier League,"CM, CDM",75.0,50.0,62.0,70.0,67.0,70.0
+Rony Lopes,Marcos Paulo Mesquita Lopes,18,67,83,600000.0,6000.0,Lille,Ligue 1,CAM,79.0,58.0,66.0,73.0,26.0,48.0
+R. van Bommel,Ruben van Bommel,18,66,83,2200000.0,1000.0,AZ Alkmaar,Eredivisie,LW,85.0,63.0,57.0,66.0,25.0,57.0
+S. Desplanches,Sebastiano Desplanches,20,68,83,2500000.0,1000.0,Palermo,Serie B,GK,,,,,,
+I. Babadi,Isaac Babadi,18,66,83,2200000.0,2000.0,PSV,Eredivisie,"CAM, CM, LW",76.0,51.0,59.0,73.0,43.0,45.0
+Bruno Varela,Bruno Miguel Semedo Varela,20,69,83,2000000.0,7000.0,Real Valladolid,La Liga 2,GK,,,,,,
+S. Scuffet,Simone Scuffet,19,72,83,2900000.0,4000.0,Como,Serie B,GK,,,,,,
+T. Ambrose,Thierry Ambrose,18,65,83,1000000.0,5000.0,Manchester City,Premier League,"ST, RW",87.0,63.0,48.0,64.0,25.0,54.0
+D. van de Beek,Donny van de Beek,18,67,83,1400000.0,8000.0,Ajax,Eredivisie,CAM,62.0,63.0,67.0,69.0,50.0,62.0
+D. Avdijaj,Donis Avdijaj,18,68,83,1700000.0,3000.0,Sturm Graz,Bundesliga,"CAM, LM, ST",74.0,65.0,61.0,74.0,23.0,47.0
+Mosquito,Thiago Rodrigues da Silva,19,68,83,1800000.0,2000.0,UE Llagostera,La Liga 2,ST,82.0,68.0,49.0,70.0,25.0,59.0
+Diogo Jota,Diogo José Teixeira da Silva,18,70,83,2300000.0,8000.0,Paços de Ferreira,Liga Portugal,ST,77.0,67.0,63.0,76.0,35.0,61.0
+N. Laursen,Nikolai Rohde Laursen,17,63,83,650000.0,4000.0,PSV,Eredivisie,RW,78.0,58.0,56.0,68.0,24.0,46.0
+D. Solanke,Dominic Solanke,17,65,83,1000000.0,2000.0,Vitesse,Eredivisie,ST,75.0,64.0,52.0,67.0,25.0,56.0
+D. Verde,Daniele Verde,19,68,83,1800000.0,8000.0,Frosinone,Serie A,"LW, RW",85.0,57.0,65.0,73.0,33.0,50.0
+F. Agu,Felix Agu,20,70,83,3700000.0,10000.0,Werder Bremen,Bundesliga,"LB, RB, LM",87.0,46.0,60.0,75.0,61.0,59.0
+J. Tah,Jonathan Tah,18,68,83,600000.0,3000.0,Fortuna Düsseldorf,2. Bundesliga,"CB, RB",62.0,27.0,45.0,50.0,68.0,72.0
+K. Coman,Kingsley Junior Coman,18,67,83,525000.0,8000.0,Juventus,Serie A,"LW, ST",90.0,62.0,55.0,76.0,28.0,57.0
+P. Roberts,Patrick Roberts,17,67,83,525000.0,3000.0,Fulham,Premier League,RM,77.0,55.0,64.0,76.0,25.0,36.0
+B. Embolo,Breel-Donald Embolo,17,66,83,600000.0,6000.0,Basel,Super League,"ST, CAM, RM, CM",81.0,64.0,62.0,73.0,50.0,77.0
+F. Rodríguez,Francisco José Rodríguez Araya,19,67,83,550000.0,10000.0,Zürich,Super League,"RM, LM, CM, CAM",82.0,67.0,65.0,73.0,53.0,64.0
+E. Ünal,Enes Ünal,17,68,83,825000.0,3000.0,Bursaspor,Super Lig,ST,74.0,68.0,59.0,69.0,30.0,58.0
+Rúben Neves,Rúben Diogo da Silva Neves,17,69,83,725000.0,8000.0,Porto,Liga Portugal,"CM, CDM",68.0,65.0,67.0,72.0,66.0,72.0
+Seguín,Aitor Seguín Cid,20,69,83,2200000.0,2000.0,Athletic Club de Bilbao B,La Liga 2,"LM, LW",80.0,62.0,65.0,71.0,40.0,63.0
+K. Sabbe,Kyriani Sabbe,18,64,83,1400000.0,1000.0,Club Brugge,Jupiler Pro League,"RB, LB",70.0,48.0,60.0,66.0,59.0,55.0
+M. Monamay,Madi Monamay Nsosemo,17,60,83,725000.0,500.0,Bayer 04 Leverkusen,Bundesliga,"CB, CDM",67.0,29.0,49.0,61.0,62.0,56.0
+Matheus Martins,Matheus Martins Silva dos Santos,19,67,83,2600000.0,3000.0,Watford,Championship,"RM, RW",69.0,70.0,64.0,69.0,28.0,52.0
+M. Perković,Mauro Perković,20,67,83,2500000.0,500.0,Dinamo Zagreb,1. HNL,"CB, LB",73.0,30.0,51.0,58.0,69.0,70.0
+C. Talbi,Chemsdine Talbi,18,64,83,1500000.0,2000.0,Club Brugge,Jupiler Pro League,"RM, LM, RW",79.0,52.0,57.0,71.0,29.0,42.0
+Victor Andrade,Victor Andrade Santos,18,68,83,825000.0,8000.0,Benfica,Liga Portugal,"CF, RM",86.0,63.0,58.0,78.0,26.0,40.0
+A. González,Arturo Alfonso González González,19,68,83,750000.0,7000.0,Atlas,Liga MX,CM,72.0,66.0,69.0,73.0,51.0,67.0
